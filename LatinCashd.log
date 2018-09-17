@@ -1,0 +1,980 @@
+2018-Sep-16 23:05:17.856979 INFO    [daemon] Welcome to LatinCash v0.2.2.0 
+2018-Sep-16 23:05:17.857141 INFO    [daemon] Module folder: ./LatinCashd
+2018-Sep-16 23:05:17.857331 INFO    [RocksDBWrapper] Opening DB in /home/user/.LatinCash/DB
+2018-Sep-16 23:05:17.858263 INFO    [RocksDBWrapper] DB not found in /home/user/.LatinCash/DB. Creating new DB...
+2018-Sep-16 23:05:17.872441 INFO    [daemon] Initializing core...
+2018-Sep-16 23:05:17.873889 INFO    [daemon] Core initialized OK
+2018-Sep-16 23:05:17.873983 INFO    [daemon] Initializing p2p server...
+2018-Sep-16 23:05:17.999877 INFO    [node_server] Generated new peer ID: 11613512914403412246
+2018-Sep-16 23:05:17.999980 INFO    [node_server] Binding on 0.0.0.0:20634
+2018-Sep-16 23:05:18.000111 INFO    [node_server] Net service binded on 0.0.0.0:20634
+2018-Sep-16 23:05:18.000200 INFO    [node_server] Attempting to add IGD port mapping.
+2018-Sep-16 23:05:22.004973 INFO    [node_server] No IGD was found.
+2018-Sep-16 23:05:22.005075 INFO    [daemon] P2p server initialized OK
+2018-Sep-16 23:05:22.005209 INFO    [daemon] Starting core rpc server on address 127.0.0.1:20635
+2018-Sep-16 23:05:22.005308 INFO    [daemon] Core rpc server started OK
+2018-Sep-16 23:05:22.005358 INFO    [daemon] Starting p2p net loop...
+2018-Sep-16 23:05:22.005393 INFO    [node_server] Starting node_server
+2018-Sep-16 23:05:42.542031 INFO    [protocol] [128.199.190.70:20634 OUT] Your LatinCash node is syncing with the network. You are 74740 blocks (103 days) behind the network. 
+2018-Sep-16 23:05:42.542150 INFO    [protocol] New Top Block Detected: 74741
+2018-Sep-16 23:05:48.098352 INFO    [Core] Block 100 (674c42464199c72b2a291a36c2493575918462a6d8bb7cfc0f97ba30292b8d6b) added to main chain
+2018-Sep-16 23:05:50.931312 INFO    [Core] Block 200 (a27318a40e42338a0440ad0bc002506f94950e9c989acad2d04fa62cbbf21dc7) added to main chain
+2018-Sep-16 23:05:52.604674 INFO    [protocol] [149.56.14.8:20634 OUT] Your LatinCash node is syncing with the network. You are 74504 blocks (103 days) behind the network. 
+2018-Sep-16 23:05:53.616180 INFO    [Core] Block 300 (3a70a48ed607e6d7dde944723013b69ea5e15633756644275250918acc79678a) added to main chain
+2018-Sep-16 23:05:55.806070 INFO    [Core] Block 400 (5b1b62dc8fee078db17f840994237d80ddf6ba27e81d7367e15a50e9756d8300) added to main chain
+2018-Sep-16 23:05:58.004000 INFO    [Core] Block 500 (625ab498e9d279bc8ec01537580989fccbb3ab870eb62bec6e3da54fcb00fa68) added to main chain
+2018-Sep-16 23:06:00.245534 INFO    [Core] Block 600 (dfce4fc1a125cf48d6fbfac88851cff1258954c135e301b04d519ceb89616fe2) added to main chain
+2018-Sep-16 23:06:02.294564 INFO    [Core] Block 700 (6ad873cf20e0665c7f22b995a36be26ea70f6a20181ed532b8b1c876a7eef7ff) added to main chain
+2018-Sep-16 23:06:02.959684 INFO    [protocol] [35.237.154.100:20634 OUT] Your LatinCash node is syncing with the network. You are 74029 blocks (102 days) behind the network. 
+2018-Sep-16 23:06:04.061589 INFO    [Core] Block 800 (e39635b0fc8605fdcc50b6bea9e3a3cd10205dd30cd3cecbedb5a22805071fce) added to main chain
+2018-Sep-16 23:06:06.883385 INFO    [Core] Block 900 (30a646c24d22d71bf0afc06f5f44bb260e91c03fd33e8d5395cdcc752eab6988) added to main chain
+2018-Sep-16 23:06:09.622495 INFO    [Core] Block 1000 (1d920bc4c1e501e1674cc73d7b37c3d4bace9236f88eff20c8b09f5c152fd4ea) added to main chain
+2018-Sep-16 23:06:12.335718 INFO    [Core] Block 1100 (f665718b6986bb47cca5e6bd7175741910973619d2b98273c309426d14b1b5e0) added to main chain
+2018-Sep-16 23:06:13.209374 INFO    [protocol] [89.208.249.254:20634 OUT] Your LatinCash node is syncing with the network. You are 73633 blocks (102 days) behind the network. 
+2018-Sep-16 23:06:14.763104 INFO    [Core] Block 1200 (29b3417791bef0c8cdf88e3c1fb3aab49d5c3a8cecdb820a41ba9460c2d6b2a6) added to main chain
+2018-Sep-16 23:06:17.505845 INFO    [Core] Block 1300 (4658d90c4440670d5771f2a2419979f1bd24cccbb86bf91a2b0156f89e3c5d64) added to main chain
+2018-Sep-16 23:06:20.042193 INFO    [Core] Block 1400 (63452989fb81387e9a066c5a83cb6a05c9e7edee4f6d90e1f980a14309001e48) added to main chain
+2018-Sep-16 23:06:23.675936 INFO    [Core] Block 1500 (02ee5f48a23f8aae52285058387ac085d62ae948cf7e670e25dcb42e8a2e0a8e) added to main chain
+2018-Sep-16 23:06:26.530321 INFO    [Core] Block 1600 (91b6faf7af4ace11b7e69e853f5eb21f145c7eb5bfff0b4f389b36ad90992c2a) added to main chain
+2018-Sep-16 23:06:29.358517 INFO    [Core] Block 1700 (b6a63a677993564c449097c186829e724a75c0abb60d8fae7310a266e97ef395) added to main chain
+2018-Sep-16 23:06:32.212810 INFO    [Core] Block 1800 (e70586c446c4724cabaffa5445bfa49d9249c68d2b0980f077a85bc4b2cb90a2) added to main chain
+2018-Sep-16 23:06:35.370728 INFO    [Core] Block 1900 (4ca2f468a06f54967d85c14097b26aadeb33e8dbe38ca984bf802cee00528a96) added to main chain
+2018-Sep-16 23:06:37.624070 INFO    [Core] Block 2000 (fabf824817faf1d4ffd9ff65e71c1b57ec97ed738a2f7b95d09e1edb70e2a319) added to main chain
+2018-Sep-16 23:06:39.887397 INFO    [Core] Block 2100 (44f67a163192fcba59488ee0e367930e4596e3edb902e8bf45647ba0f58c4adf) added to main chain
+2018-Sep-16 23:06:41.967938 INFO    [Core] Block 2200 (d2e7279f88fa881276ac3fca23fce0e70e3686d150009c3224cf34a76dbed5e8) added to main chain
+2018-Sep-16 23:06:44.001959 INFO    [Core] Block 2300 (e419958e0764aa6e80d8a07b7dbcc71f434a1aa6ea85a2431c6fd2d8c100365e) added to main chain
+2018-Sep-16 23:06:46.108507 INFO    [Core] Block 2400 (2f488faf5db95579e73032c092b47fad82f916898623a29437d14c7d34282060) added to main chain
+2018-Sep-16 23:06:48.265780 INFO    [Core] Block 2500 (bd482be4184d6e06a4bcef6e1a2c3789a0358b8c194a2746a13dac0b317bad5b) added to main chain
+2018-Sep-16 23:06:50.434753 INFO    [Core] Block 2600 (55e70115526fad1a99666aa4b876143d35751b5ab7d389fe42e99ba6abfdecdb) added to main chain
+2018-Sep-16 23:06:52.400344 INFO    [Core] Block 2700 (48141aae08698a7608d2ecc0a50a90ad0d228ea2a4c9da132c7aba71cf4e22cb) added to main chain
+2018-Sep-16 23:06:54.358569 INFO    [Core] Block 2800 (f2b0303075a3f893397ad8b7043e2a40a15a1c2b277aad17edadc912ba0e8dad) added to main chain
+2018-Sep-16 23:06:56.240406 INFO    [Core] Block 2900 (f7fd9138f84bfa83b6e1c45446f3c67f7fd0864d98ac7ddd7d11bda76b3111cf) added to main chain
+2018-Sep-16 23:06:58.161136 INFO    [Core] Block 3000 (9d579eccf86e91f762d29c32db061c20fcd6b0c7da340dc6d78e3503056f7e40) added to main chain
+2018-Sep-16 23:07:00.110762 INFO    [Core] Block 3100 (f2c7e2b7856545e88b5b67d7c21f1529494298ec70bd8c832a924dd58341249b) added to main chain
+2018-Sep-16 23:07:02.077683 INFO    [Core] Block 3200 (f567094f4181f3416871195f92edb33e0994390056538a84a3b4e9fe1f7dc977) added to main chain
+2018-Sep-16 23:07:03.912871 INFO    [Core] Block 3300 (1426782d15f6694fd57d421a542d16657e7a35e8698db0ee2c45791cb5180489) added to main chain
+2018-Sep-16 23:07:05.824257 INFO    [Core] Block 3400 (3531394cafe181325e83c68ede44183db9b180ce266de9c865f105c2947a3b40) added to main chain
+2018-Sep-16 23:07:07.724002 INFO    [Core] Block 3500 (5eb1278b1a402a83e1f755012f9a72a828ce23c6f34ba8dab0b882eb349b1df1) added to main chain
+2018-Sep-16 23:07:09.713191 INFO    [Core] Block 3600 (cb0a8804d6e7e897d185487be6c082b20222fa91819daabb36ee4fdd05d82fdd) added to main chain
+2018-Sep-16 23:07:09.719004 INFO    [protocol] New Top Block Detected: 74742
+2018-Sep-16 23:07:11.745745 INFO    [Core] Block 3700 (205a3536b0c3e4bcc015db182d76204a9de67d34135086c566f4eeeae9385ea1) added to main chain
+2018-Sep-16 23:07:13.643427 INFO    [Core] Block 3800 (4f3ff35f7352ca43d71b5927d18d40c6706bc25dd3b478696f51006650a22018) added to main chain
+2018-Sep-16 23:07:15.560660 INFO    [Core] Block 3900 (4d6b0f7ac24edfe675c59df60309e4248863ca787cfbdba623b26cd6594ae691) added to main chain
+2018-Sep-16 23:07:17.490828 INFO    [Core] Block 4000 (6fa7eaaa47abb57bbea650d9833e08a36bdae9207716adb9d93ff47c5c9e08a5) added to main chain
+2018-Sep-16 23:07:19.490605 INFO    [Core] Block 4100 (7a5d009709d116c98d2b86ad08f1696af6aee729cb36581d9d9ebf3732fa0276) added to main chain
+2018-Sep-16 23:07:21.400666 INFO    [Core] Block 4200 (05551eeee35b0bc4ebdd3b7ed3484b942865d07e91797a03f1b85eb4e0f10142) added to main chain
+2018-Sep-16 23:07:23.369119 INFO    [Core] Block 4300 (982ef2347204ff731cb5205cf0550cd378855858b881f4e5f450ede314aa1aea) added to main chain
+2018-Sep-16 23:07:25.355173 INFO    [Core] Block 4400 (6b94fe1e8886202c6f40b2a052df706e7096fe81e46a890aa4b82c955ef3fd81) added to main chain
+2018-Sep-16 23:07:27.217598 INFO    [Core] Block 4500 (583b9756e734ec76493c059111dc83ee40aa6efd52efeb44b0bc8c3d28b577e9) added to main chain
+2018-Sep-16 23:07:29.170157 INFO    [Core] Block 4600 (6ce449f736d02a99a9f5ca38022484632caa46e7916a57e5c814a7d162e1c8e8) added to main chain
+2018-Sep-16 23:07:31.088502 INFO    [Core] Block 4700 (6440f1e484d98518829bcc11486e8a372644e90fdd3803d6b8561c4556ba8ccd) added to main chain
+2018-Sep-16 23:07:33.011692 INFO    [Core] Block 4800 (516fc53c44bea8bf6fe9598387dd287f853e06e2b8734a8ce8a692f75381b81a) added to main chain
+2018-Sep-16 23:07:34.925935 INFO    [Core] Block 4900 (ef280973c586a268b05cf6553ab086797898cb11de5f4a532a8d8214f246159b) added to main chain
+2018-Sep-16 23:07:36.832662 INFO    [Core] Block 5000 (c222d461e5203694c53219c7cc84432cebbdab1116a0a574883fa7fee8cfc3d6) added to main chain
+2018-Sep-16 23:07:38.802242 INFO    [Core] Block 5100 (018846a8cecf034ea1b092f2c8433a2befd8c308addec47a58adaac9c6926001) added to main chain
+2018-Sep-16 23:07:40.759032 INFO    [Core] Block 5200 (8c90c3d881493b46988dd7f234efe40a5d4804423407fa55811dbecf3561109e) added to main chain
+2018-Sep-16 23:07:42.694645 INFO    [Core] Block 5300 (0b171f595618ad58816ae87258d3d405af2937f2760238518b8cb2e612515559) added to main chain
+2018-Sep-16 23:07:44.680724 INFO    [Core] Block 5400 (fc429d9ad3582151781b20e85f9fc3a7217fdf76653c74672ec1d47daa15575d) added to main chain
+2018-Sep-16 23:07:46.555398 INFO    [Core] Block 5500 (88485ce1e28d0fc39128d4c53be158aa61f9567e928ede780db316d9116c34c3) added to main chain
+2018-Sep-16 23:07:48.536029 INFO    [Core] Block 5600 (f22f3b045bd2c872df5b6a402441fb377c907bc8c5cca6c297e7e87e12c61ecd) added to main chain
+2018-Sep-16 23:07:50.507185 INFO    [Core] Block 5700 (c56296377b5f6207c78adaf614084a21725114decba4d1a13aa10624d25aae18) added to main chain
+2018-Sep-16 23:07:52.478640 INFO    [Core] Block 5800 (30bf204bb37404bbe7a7351b6f530ec9864189bfbeaae078155d5685a6faa9e0) added to main chain
+2018-Sep-16 23:07:54.425909 INFO    [Core] Block 5900 (37d078cd215008c34171f92e135e652ebb71c6c98481f4ddb80ef5a70d922152) added to main chain
+2018-Sep-16 23:07:56.337930 INFO    [Core] Block 6000 (5d7f3d7e96dcb220ba195bf2883ddfa277aaf937af249635d18d2a041f849c48) added to main chain
+2018-Sep-16 23:07:58.303899 INFO    [Core] Block 6100 (c1a4f62365d033aae960054118f8b79ce3edbca261e7629144442e64e504639d) added to main chain
+2018-Sep-16 23:07:59.765640 INFO    [protocol] New Top Block Detected: 74743
+2018-Sep-16 23:08:00.239423 INFO    [Core] Block 6200 (a01457d3d73f8f70c7dedb9a3f153463086dbc153f13b4aea3716a440f432a15) added to main chain
+2018-Sep-16 23:08:02.197402 INFO    [Core] Block 6300 (1f02931362513f0e284a4e25c02b45363c0c5b58ac3bf988517e687a14b3841f) added to main chain
+2018-Sep-16 23:08:04.041804 INFO    [Core] Block 6400 (4154e4ca4b61151ecc3f30e761842cbfa9608e6a6b23d26d40c86f769b381278) added to main chain
+2018-Sep-16 23:08:09.092666 INFO    [Core] Block 6500 (d239a6e274bb6edc3607e0be7e64da369746b2cbda956b7c05e651911885d610) added to main chain
+2018-Sep-16 23:08:11.252742 INFO    [Core] Block 6600 (5e84a386d6c23d487d73067b760b832f9cf720eba601cb2fccd38ad64a3b860e) added to main chain
+2018-Sep-16 23:08:13.512751 INFO    [Core] Block 6700 (f19db07019d76c2de7c235ac7a57e3b72097dce5c489d29a3ab31a0832d0c339) added to main chain
+2018-Sep-16 23:08:15.934105 INFO    [Core] Block 6800 (d0621b5e03d4eb97cb5fc87f6dd0cfde59c047e212fb64d3e4a8ddab30753b9c) added to main chain
+2018-Sep-16 23:08:18.223101 INFO    [Core] Block 6900 (449bed69d3065a57b5b1ddbc8db1fa6b0d7b0c8af6716cf919ccaec7e3bdf4eb) added to main chain
+2018-Sep-16 23:08:20.496002 INFO    [Core] Block 7000 (108369c7bf2d4a3c0e865c362c529e535cd374a2e47079a32807448d3ab10977) added to main chain
+2018-Sep-16 23:08:22.670607 INFO    [Core] Block 7100 (4351a69e0e0d7e1c79cfa7d5054d421e55fabd8f87b6968a4697942acee4a489) added to main chain
+2018-Sep-16 23:08:24.688132 INFO    [Core] Block 7200 (912bd2248c612d9c563c09048243899fd512f436378cbb68871d6ed083ae3edd) added to main chain
+2018-Sep-16 23:08:26.668985 INFO    [Core] Block 7300 (d0349ae9db72b97ec5f6650140b91fbd9f24a0d103c825d752694e364f8f11f7) added to main chain
+2018-Sep-16 23:08:29.074288 INFO    [Core] Block 7400 (40a7b727be69c40f377d3ff1991353575e50267549f265b0b5e19ac3fbaac07b) added to main chain
+2018-Sep-16 23:08:31.229917 INFO    [Core] Block 7500 (4db9b299d0ad12225a5f309599e3abd11f23c5427f080e5d024e45306efa0b67) added to main chain
+2018-Sep-16 23:08:33.315371 INFO    [Core] Block 7600 (f42c08d86a91c431b79667c27acf235dd05cd6df3663a542a6b017b17fa47241) added to main chain
+2018-Sep-16 23:08:35.573041 INFO    [Core] Block 7700 (932c0e1e76be6c5b6960a18e3bfec691771b5d701246c1713cb33bc4338a65ff) added to main chain
+2018-Sep-16 23:08:37.696611 INFO    [Core] Block 7800 (84e9d6c39eb63e753b2d6555318f73538400a36737b2ca52394b05ab74b0cc2f) added to main chain
+2018-Sep-16 23:08:39.848665 INFO    [Core] Block 7900 (066ac8101d0845bbacf18af6cfc261af398a17f6e5d454e6d2debb3e7d7b4947) added to main chain
+2018-Sep-16 23:08:41.882145 INFO    [Core] Block 8000 (a1fbed5124f9a63a7b777cd514c79d7d92836c82c2917992f5c271824d0a5709) added to main chain
+2018-Sep-16 23:08:44.386984 INFO    [Core] Block 8100 (cdd3537365f729dee08e45c8b23763caf3abf7a33c431b041e83b570bfa630fc) added to main chain
+2018-Sep-16 23:08:46.916771 INFO    [Core] Block 8200 (0d60a8c7ddc9b88e4fefd093459014077eb254ac7f40287cef96d186323213f9) added to main chain
+2018-Sep-16 23:08:49.286599 INFO    [Core] Block 8300 (98a998ef1f83f8bd87b84dbc4183ef569281966f62fd8c068ad78ecc3ba8ac58) added to main chain
+2018-Sep-16 23:08:51.544002 INFO    [Core] Block 8400 (e3317d0e94dfbd8883c65b0d85a3c2bd5beff9a8f14f78ad868eb55cc26b66c8) added to main chain
+2018-Sep-16 23:08:53.734861 INFO    [Core] Block 8500 (871072f560cde4bbb191e807618d0d620fd929d0ca161d7e6138d05e2bdeb893) added to main chain
+2018-Sep-16 23:08:55.895314 INFO    [Core] Block 8600 (91528c06a82eec862590792223d89ae35a7dc7bdf881a179cc3224c5c18951ec) added to main chain
+2018-Sep-16 23:08:58.101922 INFO    [Core] Block 8700 (eed92051cb282177dbdb8624ef6ab8afc9df6d93743798679eaaa9a2e1d7a193) added to main chain
+2018-Sep-16 23:09:00.310617 INFO    [Core] Block 8800 (c0bbe0694ce25522a65e7e9a60fddcfb068ee11ed88304cc714f83e070ea3727) added to main chain
+2018-Sep-16 23:09:02.448918 INFO    [Core] Block 8900 (937899a89ed27524ca373c55de8bb2e11fed97da033273f0d3d2c577a8a9b752) added to main chain
+2018-Sep-16 23:09:04.667382 INFO    [Core] Block 9000 (bd2fe7456ab79a605693dd131973ce74767e0834035d288cb5b6a2aa9c8ba18a) added to main chain
+2018-Sep-16 23:09:06.805161 INFO    [Core] Block 9100 (1ba9b8e350c247e03f5da1d7710b3d6c2204f244a3ec71b4195e3cf843a42bd2) added to main chain
+2018-Sep-16 23:09:09.137540 INFO    [Core] Block 9200 (6bf56c0b576b23a316699291ade405a2203dea60e7b2a7054a85953f0bf86e97) added to main chain
+2018-Sep-16 23:09:11.291046 INFO    [Core] Block 9300 (2fed19c3c0d75abbd0217fa390cd40ca70a100535b592ed49d8f5c7554855bd7) added to main chain
+2018-Sep-16 23:09:13.233423 INFO    [Core] Block 9400 (7fad3bbd9793b0837926a720d5cae4eacff6b3f606ca60a5bb2a7615a1e745a6) added to main chain
+2018-Sep-16 23:09:15.363851 INFO    [Core] Block 9500 (fe304ffec254dbdd5be14f1b8f037c29df0ad6ac9e36fd614d8485207182426c) added to main chain
+2018-Sep-16 23:09:17.502632 INFO    [Core] Block 9600 (8f47c0a8c81ff4e89080341245f34f04a1207a0ef08bafa1b1bca5414763a494) added to main chain
+2018-Sep-16 23:09:19.512761 INFO    [Core] Block 9700 (caceae6b1b98905165d3b11cadbeb708f44983c8b34e93ee2a1e4b656d45628b) added to main chain
+2018-Sep-16 23:09:21.518723 INFO    [Core] Block 9800 (bbad81cb1e4f5f4af166880ce7a7f35dbb626ebaae94c3bf97e0e238a0fdddf9) added to main chain
+2018-Sep-16 23:09:23.637714 INFO    [Core] Block 9900 (c674eae9e1622ba313cee108f5abda303c6c54b141858dc5513afe817f7d3d34) added to main chain
+2018-Sep-16 23:09:25.702698 INFO    [Core] Block 10000 (00352dec9f141c438c2b9393df8d2b41b19750b9a2cba3a2a9e69cf8322efaf4) added to main chain
+2018-Sep-16 23:09:27.723662 INFO    [Core] Block 10100 (11fca5c5dccf090941a81a1e2aa542bec906dbd194eba6e296ea41a2c075eaff) added to main chain
+2018-Sep-16 23:09:29.665855 INFO    [Core] Block 10200 (dff8995875937f9ae50354cb4b33ac07a563dfb80da789d0bdbc5c9391e89851) added to main chain
+2018-Sep-16 23:09:31.804720 INFO    [Core] Block 10300 (f375b827a6c1041df8d38593c88605291ccc81032f82340f2c7f524b11151869) added to main chain
+2018-Sep-16 23:09:33.706246 INFO    [Core] Block 10400 (38a4d5a33392680e9bf09593f0bf571ac85759c9e4d6560be558bd7224142a57) added to main chain
+2018-Sep-16 23:09:35.724158 INFO    [Core] Block 10500 (624fec74fdeee5a490af3014140ef0daf40f3ba203f0c0bbd28d14f290f2186d) added to main chain
+2018-Sep-16 23:09:37.720687 INFO    [Core] Block 10600 (33fdedcba77e14249d81d5103e516f604f974137775a9c7dec8e40db5e456629) added to main chain
+2018-Sep-16 23:09:39.658780 INFO    [Core] Block 10700 (a2261d861d5e91d6f314d3e2b0f4a4066595ead452931b8523712e120dbd101b) added to main chain
+2018-Sep-16 23:09:41.601873 INFO    [Core] Block 10800 (bd55e5fb0e0e21a229c811afc137a8505db8252c50b0954d2e1c72c2b020bc42) added to main chain
+2018-Sep-16 23:09:43.485394 INFO    [Core] Block 10900 (1e8d4aac30363e874bd9ba9e232dae4d06dd9090c3d559d74228ceecd4898425) added to main chain
+2018-Sep-16 23:09:45.438699 INFO    [Core] Block 11000 (d232039ffebdadc1807f597134564a8e90a1e84b2985878296352cb43851d1dc) added to main chain
+2018-Sep-16 23:09:47.367060 INFO    [Core] Block 11100 (efdc513224154dc6acd7f66653ee0dbd0bd41d88dd424797b8e2af908dd84af1) added to main chain
+2018-Sep-16 23:09:49.300083 INFO    [Core] Block 11200 (9c3ecf7d83313e74eaaa603aa09161826a9d10df69d07635c0883c3e963084e0) added to main chain
+2018-Sep-16 23:09:51.443633 INFO    [Core] Block 11300 (6f5440ca4d6b182f1a4fad225484f3c1c75c3a6c82fdb494160f07aae7a9b68e) added to main chain
+2018-Sep-16 23:09:53.507464 INFO    [Core] Block 11400 (bf96571ee25dc91e808b198cbaab6711dc2db12688a24f3b67565efd6d4fe4e5) added to main chain
+2018-Sep-16 23:09:55.531616 INFO    [Core] Block 11500 (7f487d8dfbaea2e53a28d47d38f36abae9c0c2cf6acf2b5489c8ef7da5f3cf1e) added to main chain
+2018-Sep-16 23:09:57.521685 INFO    [Core] Block 11600 (21cfa2d7428634da9dd30e60a0e51d7e07763cd06685fb0ff0dea37881a3d12c) added to main chain
+2018-Sep-16 23:09:59.503009 INFO    [Core] Block 11700 (7e25f5a747abedeead3bcc91ae8e99fb456f3312880782528ba76b458935e496) added to main chain
+2018-Sep-16 23:10:01.470653 INFO    [Core] Block 11800 (f467581e3f021390a733dd1d876fc4004c9a6daf9e7b5c3fe42b415a212e493b) added to main chain
+2018-Sep-16 23:10:03.595843 INFO    [Core] Block 11900 (92c6c99353da25b8754341fa7083a14ec3c79a8783b5cea765dbb1a1ef06a0a3) added to main chain
+2018-Sep-16 23:10:05.640484 INFO    [Core] Block 12000 (1c290234a5a3601c9e92157253f0a24def41a2893faa1e0721903ed8d501ef13) added to main chain
+2018-Sep-16 23:10:07.673270 INFO    [Core] Block 12100 (e4bd968307fe6e38830febe244197ccbb38e92c3c7f9ceac1143ae8672c90b84) added to main chain
+2018-Sep-16 23:10:09.590927 INFO    [Core] Block 12200 (8b25946624578936ba6712b119b4487d081123b279209f8490c4992433377be2) added to main chain
+2018-Sep-16 23:10:11.549766 INFO    [Core] Block 12300 (dc2a382b910167abf09b079d1b84660b5287cd2196d39dd0ba057d48e98c1776) added to main chain
+2018-Sep-16 23:10:13.410988 INFO    [Core] Block 12400 (4fc5a717db46252e852e6e4af1d65fc6a3d6561b11921912fe1583afaf0f46e1) added to main chain
+2018-Sep-16 23:10:15.340558 INFO    [Core] Block 12500 (96f1eb700f9c39a8cc22e77aec2285f13bd32ab00d2ad64c91f8a677d77784aa) added to main chain
+2018-Sep-16 23:10:17.230831 INFO    [Core] Block 12600 (c97858952b2a731d833ebdae1bd5306da3f1667481b66aee3c3e78640635fe23) added to main chain
+2018-Sep-16 23:10:19.080674 INFO    [Core] Block 12700 (a87d60429f4daf98288d0b13423f096e580eff77c694839c75dc8ca8cb976afa) added to main chain
+2018-Sep-16 23:10:20.997996 INFO    [Core] Block 12800 (89086d91feb89b181a7a627b76a3f22e0d25a1596faa16991558c4508360b5b5) added to main chain
+2018-Sep-16 23:10:22.862213 INFO    [Core] Block 12900 (97fb788803a195be9d5add558aca8f1ecd0b57a24d550c3ac048181e34271da5) added to main chain
+2018-Sep-16 23:10:24.754266 INFO    [Core] Block 13000 (55b5f63708b9088ead3dd3a8a8a2ac0f21fccc1de157ba1c5d89acbd308aa00f) added to main chain
+2018-Sep-16 23:10:26.662851 INFO    [Core] Block 13100 (16990152ba916d48bdf00176b657790e0ccc337c86facb46df37de23061b22ea) added to main chain
+2018-Sep-16 23:10:28.525773 INFO    [Core] Block 13200 (281eb91677b2c1062c720fe81765e8d133c407eaa0380e65bd26a0ef0c9f9e4a) added to main chain
+2018-Sep-16 23:10:30.339484 INFO    [Core] Block 13300 (91923fdadf47f0cd82588414c82dcba819c49668af02e516781a203acd8ef4a8) added to main chain
+2018-Sep-16 23:10:32.152627 INFO    [Core] Block 13400 (4499d995083e8c266497a0f4eff974966534525a8b9613afda7dfe383c352c31) added to main chain
+2018-Sep-16 23:10:34.062680 INFO    [Core] Block 13500 (d16cf302457a617787f6681458e13962fa2228651871c570ec2c041621235cf5) added to main chain
+2018-Sep-16 23:10:35.885628 INFO    [Core] Block 13600 (781d89ec93f10880fdaf6a940006958a7aa96efc9a864c762a265691beb72c23) added to main chain
+2018-Sep-16 23:10:37.793153 INFO    [Core] Block 13700 (75f52e1ebf61786e2b03d095017fe4a4cc7a0b867979ab808bd59399fdfd940e) added to main chain
+2018-Sep-16 23:10:39.680926 INFO    [Core] Block 13800 (234945fe152be4847944fd324e13506fe1ccdeac928e3f6bbe51062f80ce7c6c) added to main chain
+2018-Sep-16 23:10:41.509321 INFO    [Core] Block 13900 (2996b90b0a3f2fe8be4e2bdc32a5d8616cad9d873b0a0614f8768ad893b6b5db) added to main chain
+2018-Sep-16 23:10:43.378434 INFO    [Core] Block 14000 (493a57953a70fadcc211be05970bc8214f0cf41da4e8e6397fba3e274c2b8a0b) added to main chain
+2018-Sep-16 23:10:45.291532 INFO    [Core] Block 14100 (82d2c3c5cd701cf1ea0044d3c3665163fa19acf99939f8b262967bacbe7bea9d) added to main chain
+2018-Sep-16 23:10:47.219869 INFO    [Core] Block 14200 (fe965cafd5a03207d9700fda4fdf1337aecd86cbd4a3cfe0e0af418a18e29826) added to main chain
+2018-Sep-16 23:10:49.103927 INFO    [Core] Block 14300 (fa306e441a963c3303567a109bf8215e1c01b3459d3030c0e75db46f304aa7f2) added to main chain
+2018-Sep-16 23:10:50.980925 INFO    [Core] Block 14400 (42aae65e59cb0141197030443027153967231ab4463f15b8dfccdec5f453ad92) added to main chain
+2018-Sep-16 23:10:52.826001 INFO    [Core] Block 14500 (da53f420a2651f5f42c2bac4b1a05bac9f581969692c128c93698f0da04d7763) added to main chain
+2018-Sep-16 23:10:54.740398 INFO    [Core] Block 14600 (862c4f34cb06db6cd9ca82be42726381b849db980b59d5c3cfb647ad670edcc6) added to main chain
+2018-Sep-16 23:10:56.622348 INFO    [Core] Block 14700 (eaab9a307ead3a9fd32adedfb87cc96992b12655c86c5217d8c1a4bab1857f52) added to main chain
+2018-Sep-16 23:10:58.504873 INFO    [Core] Block 14800 (912d67ed230e73466cccd3c70b68ff21761864e047ad94086e21ad7c086268d3) added to main chain
+2018-Sep-16 23:11:00.381430 INFO    [Core] Block 14900 (b20f2308a8a0ae96fc81092c4c5f98ee8691508ace52b3a3f9fc8bdfcbd14b5b) added to main chain
+2018-Sep-16 23:11:02.251035 INFO    [Core] Block 15000 (59c95a3682099a067280e28296c2ba0da264a5f8115b68a07d31c4b39a8e7ea8) added to main chain
+2018-Sep-16 23:11:04.095133 INFO    [Core] Block 15100 (0a44bc8e7df072aeae522497e918650863c0d82ce4a7b45787d7c0930f38d7b3) added to main chain
+2018-Sep-16 23:11:05.910288 INFO    [Core] Block 15200 (7b5e7e2bf3fd6cfced682f3359ce11cf24f2db02a5fd2616302e3a3870f18b80) added to main chain
+2018-Sep-16 23:11:07.816970 INFO    [Core] Block 15300 (011c30deae2fd51233e77526194c3c5440d45259749d5883095c0b1c5957db61) added to main chain
+2018-Sep-16 23:11:09.645183 INFO    [Core] Block 15400 (cced112b9d0e413d6da9500e8e9d4e84f64c6fe09bd335981f0d20144d60feb8) added to main chain
+2018-Sep-16 23:11:11.571308 INFO    [Core] Block 15500 (4ba3f392e9a4df2e60c303d23218470cfa4c8f99e71fda2213e85c8846e15f82) added to main chain
+2018-Sep-16 23:11:13.435573 INFO    [Core] Block 15600 (3d17e50e27063c6e7d603cbb9289b4aa2351f2b27919f4617e9a1673ae7b90b4) added to main chain
+2018-Sep-16 23:11:15.206266 INFO    [Core] Block 15700 (4868866ce1733ae3364b23b8f391a39d46baec76348352cdac3715245f9fe9bd) added to main chain
+2018-Sep-16 23:11:17.014381 INFO    [Core] Block 15800 (ce87733e6e60f4de775287ccfe652b95130265ea3dac3a96005af0adc44a1bd6) added to main chain
+2018-Sep-16 23:11:18.860772 INFO    [Core] Block 15900 (de1431b89323033754a7145ad512d0d2917fe1b35461c11f7ac9c0135d0afc09) added to main chain
+2018-Sep-16 23:11:20.664477 INFO    [Core] Block 16000 (53d4a161760d135ae06e2a90f0fe377467437569c9a674fd25421fdc15495a4f) added to main chain
+2018-Sep-16 23:11:22.464288 INFO    [Core] Block 16100 (276fed499789f9195852f7223a739e49280f7895616b6e197a1a1bbc80f7b49a) added to main chain
+2018-Sep-16 23:11:24.294146 INFO    [Core] Block 16200 (5b807e62efbb5c3bc8ac4ea509a14a54682bd835f13ec00e6a72f4f8dc1e8943) added to main chain
+2018-Sep-16 23:11:26.063863 INFO    [Core] Block 16300 (ac3137a2e2463dbaaffbe26e536418d2f2bcba49cc5a17d1289efa8ae9036b8e) added to main chain
+2018-Sep-16 23:11:27.900946 INFO    [Core] Block 16400 (fb522baf820f4e315d3aafa129979370825efc17a266c03e2a17214e730b5ec1) added to main chain
+2018-Sep-16 23:11:29.723519 INFO    [Core] Block 16500 (d102b21fb6e9f8520cca6a576afb619661414455e8fcb69093c33e12f057ae26) added to main chain
+2018-Sep-16 23:11:31.559063 INFO    [Core] Block 16600 (24b63ddef42b992a4f8c2eaef145e78feddaf5a76b0ec67fb879a1b701c6bfe2) added to main chain
+2018-Sep-16 23:11:33.431566 INFO    [Core] Block 16700 (fe60e34543fd5d3e0081750fe392da812cea72c54f459131991b99ef1c541e56) added to main chain
+2018-Sep-16 23:11:35.167247 INFO    [Core] Block 16800 (238854ec711d87fe477e29664e01ef9eef9311aebeabe62d87e2c3f3996481ad) added to main chain
+2018-Sep-16 23:11:36.971943 INFO    [Core] Block 16900 (7ed6520490d1b1fc6c114facc494f86cb4bdef7d8cf202103f272612671a9913) added to main chain
+2018-Sep-16 23:11:38.770224 INFO    [Core] Block 17000 (a1d6d8bb75f8acf019c1be9663d4294b5bd3b618c226fc5389dc161a95e04b71) added to main chain
+2018-Sep-16 23:11:40.551222 INFO    [Core] Block 17100 (2b1660293f306dc089801c36bdaa92cc332497bc0e025b28fc7010646739978a) added to main chain
+2018-Sep-16 23:11:42.375938 INFO    [Core] Block 17200 (43c0074bf30e3d30b1ad0271d10dd1870a9513f8793f0a0f3514d31e0c99f181) added to main chain
+2018-Sep-16 23:11:44.212966 INFO    [Core] Block 17300 (5a40b241bb6acd3cb1f30d9b70aef800060040a30741e85d1aaf8210658c5acd) added to main chain
+2018-Sep-16 23:11:45.991150 INFO    [Core] Block 17400 (8524c8c2238682d1d1eb3f89113050c97c90dd9e723a4bbf211f6d021279ea19) added to main chain
+2018-Sep-16 23:11:47.792070 INFO    [Core] Block 17500 (a40edaa484d9669e2df1d267f105e3bbe49275984b3b1b6df52e9a5a3e6a223c) added to main chain
+2018-Sep-16 23:11:49.602957 INFO    [Core] Block 17600 (3f6e89ee8577d53a677e4eb0a9005ad7b6a3fdacd59096123277921fb982596d) added to main chain
+2018-Sep-16 23:11:51.364917 INFO    [Core] Block 17700 (42f5485b92b15762d80ab63e9120a71b5d327030e335ecad0ba015644e3e4357) added to main chain
+2018-Sep-16 23:11:53.170136 INFO    [Core] Block 17800 (819c52dc3034b358366b4eb498cf2976dabcf3f83677d25106f60f65338539af) added to main chain
+2018-Sep-16 23:11:54.913306 INFO    [Core] Block 17900 (ee0eb10c3cf662b64d3f9ea9d3b7460396290d42650881af931f2296c582c85d) added to main chain
+2018-Sep-16 23:11:56.649412 INFO    [Core] Block 18000 (253b4abff4051c70f78f48d8e5be5c16343784f0c1f952efc1b47204c5b7aae5) added to main chain
+2018-Sep-16 23:11:58.433702 INFO    [Core] Block 18100 (5632c19a87b59028fb42a5cc8263b8998f1624e53fe571ee364c86d74e323390) added to main chain
+2018-Sep-16 23:12:00.245238 INFO    [Core] Block 18200 (7b5265c6ba90474ef20b898165f9781f271f4507199bb00c63f3c4958349f976) added to main chain
+2018-Sep-16 23:12:02.168256 INFO    [Core] Block 18300 (9aaa09db4131d555fe8923f0e152a693080078114f751091e14ba79c807dc4d8) added to main chain
+2018-Sep-16 23:12:04.065370 INFO    [Core] Block 18400 (6bd376d06c642c86a7ed3f608928290f8dfae059f73a0c0eee430dc95f702b3f) added to main chain
+2018-Sep-16 23:12:06.006562 INFO    [Core] Block 18500 (7f1f1205d9a90ed7c02a90d09361e7734eee8b000f737b4f28acd67ee3755050) added to main chain
+2018-Sep-16 23:12:07.815236 INFO    [Core] Block 18600 (213c34719ca04dc63304a094d2d11544593fa88c9a07ac55365f1bd824a0f67c) added to main chain
+2018-Sep-16 23:12:09.732206 INFO    [Core] Block 18700 (c2508f2628c727b096041d5014c6fec0af69eefd5a977617064baebcd196529c) added to main chain
+2018-Sep-16 23:12:11.679659 INFO    [Core] Block 18800 (f03285fc4a4df99ba20f1f5553322283e0266e1e582ffd8cf7800f6753bc4f41) added to main chain
+2018-Sep-16 23:12:13.675360 INFO    [Core] Block 18900 (076b7200631e0f181c5cfcc454a0e64a95019368421162ce7c36e864c72f4eee) added to main chain
+2018-Sep-16 23:12:15.705362 INFO    [Core] Block 19000 (43f9ed1b748ec4cccf2ea32c195e605219a56649420525a11f903ff8f9a9023b) added to main chain
+2018-Sep-16 23:12:17.749517 INFO    [Core] Block 19100 (81768d754f5ec35dd5809e1e9fa2e80cfbbdf968376ffb11c19bd036cbbb3aa4) added to main chain
+2018-Sep-16 23:12:19.783630 INFO    [Core] Block 19200 (8eaf029f649c985807fec72356b83fe18012ccdc8115e66a06fb400997b8c6df) added to main chain
+2018-Sep-16 23:12:21.778873 INFO    [Core] Block 19300 (81751179df16e668beb296225dc3920f51d8ab4c310269c520ece83de9e392ba) added to main chain
+2018-Sep-16 23:12:23.650248 INFO    [Core] Block 19400 (5ea78a091bbc5bcd00e6fc1c83e797a54603abb69a1e02da36fe0c50c5281473) added to main chain
+2018-Sep-16 23:12:25.615004 INFO    [Core] Block 19500 (aeeac2991014e50ba3db926b13dfef3ecd06c3d3a6128bd2c23bc8a3355db774) added to main chain
+2018-Sep-16 23:12:27.522469 INFO    [Core] Block 19600 (30f3af8b08f349b509afd2193c33d7b59978391ae1e664370be73c995d5d0349) added to main chain
+2018-Sep-16 23:12:29.457933 INFO    [Core] Block 19700 (2794b68c5730a8ade337c6c555fe0f0c54c0403d94e25756b0a1fa81b400977c) added to main chain
+2018-Sep-16 23:12:31.308265 INFO    [Core] Block 19800 (30545c3011c2ebe0ad6b5c26c241767fe13950b06e77dc2d1fe460e540c9dee6) added to main chain
+2018-Sep-16 23:12:33.163925 INFO    [Core] Block 19900 (66e125a6cae5430515dbd8041641773ee18a822e10e192fda78c7888447b9f93) added to main chain
+2018-Sep-16 23:12:35.110669 INFO    [Core] Block 20000 (9a121fb91d097b6325e17e0e26a1817ef8ce2975fe664e50b071cc7db1f16dd3) added to main chain
+2018-Sep-16 23:12:37.017077 INFO    [Core] Block 20100 (a49094ab6ca08359e68e9a404928d439159994a9bb56fc9f0f982f6cf2f920ac) added to main chain
+2018-Sep-16 23:12:38.902169 INFO    [Core] Block 20200 (d45ccc8771c135cd3d6ec6a06f48e9d819598238f323b380d6c3cc99844201a4) added to main chain
+2018-Sep-16 23:12:40.777079 INFO    [Core] Block 20300 (5b20f35f5544c07d77b179174861b8593f962f2033db49653e12357faf7b9985) added to main chain
+2018-Sep-16 23:12:42.592715 INFO    [Core] Block 20400 (c842cec72e2c2671345a1a423eb838f55cd94b02e8b99660a8e2fb5671e3671e) added to main chain
+2018-Sep-16 23:12:44.492394 INFO    [Core] Block 20500 (7bc35a0ff53cd1c7a6b457b61c108fb8c606bb72059f3a0f40c51089887c9413) added to main chain
+2018-Sep-16 23:12:46.275728 INFO    [Core] Block 20600 (33271c833673eb27c4a5b85e9709eb0d0c8293eaa524f64589da0bcc562b09b1) added to main chain
+2018-Sep-16 23:12:48.157089 INFO    [Core] Block 20700 (513763b4d396d68e6ee154656a83f13ea005a9300821de724503c18c1c137a77) added to main chain
+2018-Sep-16 23:12:49.998014 INFO    [Core] Block 20800 (0ea97ba2282ce64e76f3034ff46d88ececca3328b183d25a0219371594d05061) added to main chain
+2018-Sep-16 23:12:51.857930 INFO    [Core] Block 20900 (792cb0fbce1506dc41d62a760048b51dd13fa1f759d968aa9be2f5af6a02724c) added to main chain
+2018-Sep-16 23:12:53.716878 INFO    [Core] Block 21000 (a62733c1709e5d76957405a377b99e22e90e1e06fb41afafa55792e2c38b8a6b) added to main chain
+2018-Sep-16 23:12:55.629346 INFO    [Core] Block 21100 (d66977a8462d939b629f61c3ac2f639f695b56de69c8393ad5f6b332bf31b111) added to main chain
+2018-Sep-16 23:12:57.453061 INFO    [Core] Block 21200 (54bf25a812387e562135f927a91f550eb36e311d363fecde0f6a6923a01f94ff) added to main chain
+2018-Sep-16 23:12:59.272776 INFO    [Core] Block 21300 (7e1984712fc45c647eb1a359dafda240187d0417f8b5058ea36e3a3b457c7f48) added to main chain
+2018-Sep-16 23:13:01.173424 INFO    [Core] Block 21400 (2449549390e75379be101dc6ec4e6e948466bdecb189b0e8e3e3d55828d80e74) added to main chain
+2018-Sep-16 23:13:03.064977 INFO    [Core] Block 21500 (54f519fe58493b2eb2d244bc7fcb9d206f5e5a8053f5ffb23720936db6e0bb0d) added to main chain
+2018-Sep-16 23:13:04.922763 INFO    [Core] Block 21600 (a8956c4aed8e31429d3a1c39954d040b44c1fae4891a2de2c4d2ae2ae47b9b49) added to main chain
+2018-Sep-16 23:13:06.977295 INFO    [Core] Block 21700 (80adf956cb4a06944aa169bd79338a3162f41e1d5863fc27317e46d358f70fc7) added to main chain
+2018-Sep-16 23:13:08.839858 INFO    [Core] Block 21800 (dee1559daa6a9debb33bc25120cf794cfe550919bc0dfffc8633b73fd53a5380) added to main chain
+2018-Sep-16 23:13:10.842405 INFO    [Core] Block 21900 (56a52b61161cfed0e52547888b5d11076d99414e13ccfa90b553c86a007cb070) added to main chain
+2018-Sep-16 23:13:12.707361 INFO    [Core] Block 22000 (78401ee54006d962adc6e2dcf855633748b5f8b8a1911e297008b152d0ded474) added to main chain
+2018-Sep-16 23:13:14.525428 INFO    [Core] Block 22100 (0505651a2324d662d378e0d2eaccbd80f56e906167f2207ab4d3e0c0ce8ae250) added to main chain
+2018-Sep-16 23:13:16.377551 INFO    [Core] Block 22200 (d0730460cd9e9098192b9ba722708577218b2ecdf1d9bf1050d4711959b5b6b2) added to main chain
+2018-Sep-16 23:13:18.215307 INFO    [Core] Block 22300 (82ab48755aedd2cf0da840d1f3d4a6a7de3ed1c3cb0d7931bf14b0dc36227174) added to main chain
+2018-Sep-16 23:13:20.083905 INFO    [Core] Block 22400 (b13bf0e37ca6323bb78a3281d4b78cc7ad248b2817d2055e7ba3eca3139f86d6) added to main chain
+2018-Sep-16 23:13:21.906428 INFO    [Core] Block 22500 (ea8a733ba017a1ad85caf1ba23394b935f6c61e7a1e791d3b6360c2c20b33381) added to main chain
+2018-Sep-16 23:13:23.812881 INFO    [Core] Block 22600 (a13c190623718d40f5db6a495d073be35b770513ef0fde4438f0bfd9e49e31b4) added to main chain
+2018-Sep-16 23:13:25.723081 INFO    [Core] Block 22700 (31742b8ecec6631eea90952f670a3ceed7462b5c860f37b5bf1bf15186344f52) added to main chain
+2018-Sep-16 23:13:27.659414 INFO    [Core] Block 22800 (681d2d8541b120aebe50092ed2d0cd8261bc204fa2fe678a83d05bc7ab57a085) added to main chain
+2018-Sep-16 23:13:29.476399 INFO    [Core] Block 22900 (0b494b4f25ec06b91e7d3ca7b1cca3b3188719982838174e93596c39a33939f7) added to main chain
+2018-Sep-16 23:13:31.383258 INFO    [Core] Block 23000 (ff65179728e502af46dddc957bbe18bf81210a16524062efcd0db14ec422b055) added to main chain
+2018-Sep-16 23:13:33.283580 INFO    [Core] Block 23100 (bcdc48cbb05b52c5fa5d6877e051e66563b9edf2ed34bc9ccbfcee8a99e7e126) added to main chain
+2018-Sep-16 23:13:35.156040 INFO    [Core] Block 23200 (897c3e7d72c7e306058f00126d43ac853ea2c60de15a591178ef16694170e1d7) added to main chain
+2018-Sep-16 23:13:37.152447 INFO    [Core] Block 23300 (7ba6311c6dde3852d090a26044b07a7cf504a3995bbfa3d63c9bea2838a33c55) added to main chain
+2018-Sep-16 23:13:38.665080 INFO    [protocol] New Top Block Detected: 74744
+2018-Sep-16 23:13:38.969853 INFO    [Core] Block 23400 (efc40c0f35fff234942c0b5884bf63d2c87c1c43e6d6ad67d5cadde9bcf0b118) added to main chain
+2018-Sep-16 23:13:40.810424 INFO    [Core] Block 23500 (e08f15edf5f7d1da45c4339e57018a348b743c0a55a44b563b4e3fe5fc0b0297) added to main chain
+2018-Sep-16 23:13:42.673623 INFO    [Core] Block 23600 (97df056e6a0ce38a67165217926696d357e452d1ff4a53a8820484439d66cfe6) added to main chain
+2018-Sep-16 23:13:44.592501 INFO    [Core] Block 23700 (5776a55d09930805c537a006b66401eeba74be3668ac8495fbdc7f39920c0323) added to main chain
+2018-Sep-16 23:13:46.604649 INFO    [Core] Block 23800 (8c132f4ef2bc2264d1b23cac0a77cc9a532cc4a10f596ec1869834541cb105a0) added to main chain
+2018-Sep-16 23:13:48.655638 INFO    [Core] Block 23900 (29d4ed9abf2bee210d7f6bc7934a39d8486647802471fbd4081c4b05825596d9) added to main chain
+2018-Sep-16 23:13:50.739459 INFO    [Core] Block 24000 (c0e5d59385e809db4b5d4871c5b29b488428464b720d0a73e5231a803796bae7) added to main chain
+2018-Sep-16 23:13:52.953311 INFO    [Core] Block 24100 (d256f34776a1f0b695b1e52a13e6bc06b698a4a64987a65e8ae5afc990ac68b0) added to main chain
+2018-Sep-16 23:13:55.017948 INFO    [Core] Block 24200 (42c2a1ce3756437650f3c7aa82097027ed4253140b641f7b4ebc25ef4f81f190) added to main chain
+2018-Sep-16 23:13:57.020104 INFO    [Core] Block 24300 (f2faa19efc0a3c9dac90f48fa7a97e9b8628af264ba60f877df60a9e19e7baa7) added to main chain
+2018-Sep-16 23:13:58.980786 INFO    [Core] Block 24400 (b263af97c5c33e6c1fd0695537bd095092145696cbc8745522c8261d47c9d148) added to main chain
+2018-Sep-16 23:14:01.020483 INFO    [Core] Block 24500 (6d57fe70bef6fcb5f858339efa308e68e772bf7bb980e469e1a3b2e126865c98) added to main chain
+2018-Sep-16 23:14:03.019917 INFO    [Core] Block 24600 (e0e76c9d3aa45bbf688ffd447c1e9f27010d354d4155d52dc3a2bbcc6aac421d) added to main chain
+2018-Sep-16 23:14:06.231282 INFO    [Core] Block 24700 (3e95249a357d1c77dc291f1eb993b465fd3efe6af5a9578451cc177c0727ce78) added to main chain
+2018-Sep-16 23:14:08.316864 INFO    [Core] Block 24800 (fd1d82e9588aa9263fd189451cbe93fb15e17a15292b02f8a03c3c8e0d6ec0cd) added to main chain
+2018-Sep-16 23:14:10.264026 INFO    [Core] Block 24900 (f6a65400c0cce44c3011998eec81841f8595c2323e6638bff758a1d6b7c3381c) added to main chain
+2018-Sep-16 23:14:12.233209 INFO    [Core] Block 25000 (18355bca4cb68d52bb0839c8ee0f27609dd4ea9383b66ec8f6dc7e79d59d4981) added to main chain
+2018-Sep-16 23:14:14.289253 INFO    [Core] Block 25100 (ff1998fb2e31fcc66cd773a27697e7fb2bc7ff4815d9dbfe370cf8e5acf7fbb5) added to main chain
+2018-Sep-16 23:14:16.272225 INFO    [Core] Block 25200 (683fe0251eb4776302674e786fba7782b7c28276532fb8dacc6419a1212539bf) added to main chain
+2018-Sep-16 23:14:18.144850 INFO    [Core] Block 25300 (e5ec26f5620054cf5cb8a6a33add65e477f3362ccef35e67245049ce2fcb78e3) added to main chain
+2018-Sep-16 23:14:20.105637 INFO    [Core] Block 25400 (e9959a463c8de3fcb71881c5f0bae009226aabb14f6bf153e55de87881a2b4d4) added to main chain
+2018-Sep-16 23:14:21.942386 INFO    [Core] Block 25500 (33acfb625c7eb83d7cecc04a2413cf788ad19ac631735cc4cc587650ab51d0e2) added to main chain
+2018-Sep-16 23:14:23.924754 INFO    [Core] Block 25600 (c7556aa3ec29d92da9724a7bb50e9ecdbd62d2c8d3773f7af30c9c9400667c28) added to main chain
+2018-Sep-16 23:14:25.917068 INFO    [Core] Block 25700 (bc4ef9646f93cd6fc634d3303da3443920f09317f9484498b9cefed04c19801b) added to main chain
+2018-Sep-16 23:14:27.866603 INFO    [Core] Block 25800 (42819ecef289f14ec8061453980f3056c8124be9dd81f46dfcd1e629d9fb9ae8) added to main chain
+2018-Sep-16 23:14:29.771701 INFO    [Core] Block 25900 (a792ca348bd664ee1e345909aa14a2e1ea1a3d643fabc6d69aded8efb9003024) added to main chain
+2018-Sep-16 23:14:31.695685 INFO    [Core] Block 26000 (c2eae664a8923bd144a67e0b2efefd4c15c1a4d500c0473b21f6e7ebe23d7003) added to main chain
+2018-Sep-16 23:14:33.590943 INFO    [Core] Block 26100 (e058fb8cbe49e7e6cb80baede94736767e595b2d028baf3df53daf92d7f1aec5) added to main chain
+2018-Sep-16 23:14:35.528346 INFO    [Core] Block 26200 (628a91f1a4a3c472ba0c9533b940efd9225ae63b63763fe0ae32f87c3097e6dc) added to main chain
+2018-Sep-16 23:14:37.477195 INFO    [Core] Block 26300 (08095450f22dff3bd19b5476a5373e714ac12fb23bd9c9c347c123e0117e45c2) added to main chain
+2018-Sep-16 23:14:39.390245 INFO    [Core] Block 26400 (1bf4041923e27b6e3a2634fa6def9f14f9b38a850f23127d446a2a93fe87afb6) added to main chain
+2018-Sep-16 23:14:41.815149 INFO    [Core] Block 26500 (6a3ce1fd1d9015060d6cadb32df0f2a3e93a3999d4f360bf11ae9ffc4dff67a7) added to main chain
+2018-Sep-16 23:14:43.277487 INFO    [protocol] New Top Block Detected: 74745
+2018-Sep-16 23:14:43.921395 INFO    [Core] Block 26600 (2be439c9c5f1713397c5149c18eb507428eb742c4f843dc91a4ba6190303f2e0) added to main chain
+2018-Sep-16 23:14:45.948680 INFO    [Core] Block 26700 (77ba223b0aa0ba1f1999f8a7f62a7829505f5fa39f600111d3736c6c69b0bd1f) added to main chain
+2018-Sep-16 23:14:47.810193 INFO    [Core] Block 26800 (02412048bbb90a70460140cb624d6f6f9cb41d250b0a1f7e868283eba8bcc172) added to main chain
+2018-Sep-16 23:14:49.883834 INFO    [Core] Block 26900 (95ecc249b916cdd84c049df1e783ab3e055cac78be86793468ab9bfcbb4235ca) added to main chain
+2018-Sep-16 23:14:52.370558 INFO    [Core] Block 27000 (33b315bb2ec58b425dee3a82099724541a54d69d9040b92464f207901e728b66) added to main chain
+2018-Sep-16 23:14:54.291626 INFO    [Core] Block 27100 (df77b70235a95f11c483c6826fae4364fe02e0406a571a96e0a4a68ecdd3e43b) added to main chain
+2018-Sep-16 23:14:56.205618 INFO    [Core] Block 27200 (abb239010bd380ddb9761be2820ad87333ca2991883e2dfa38c620db2c14b2dc) added to main chain
+2018-Sep-16 23:14:58.284798 INFO    [Core] Block 27300 (ee42531ba9e57c933b275943f8868788ad9621bc530d8e98ed798c37ac666a67) added to main chain
+2018-Sep-16 23:15:00.301621 INFO    [Core] Block 27400 (1ef15e7502040e3a3cb24b2e7e220af9252ddb693397d1605af6dca8e800d1af) added to main chain
+2018-Sep-16 23:15:01.005386 INFO    [protocol] New Top Block Detected: 74746
+2018-Sep-16 23:15:02.432013 INFO    [Core] Block 27500 (ce5d9ddbbcd283308c2277cab351c78785854752c40ac93e48a43f3e22eb7fb2) added to main chain
+2018-Sep-16 23:15:04.524172 INFO    [Core] Block 27600 (564b545e147176bec09055a5ef9317c6af4dda01ae4f2f87ac61526c00288863) added to main chain
+2018-Sep-16 23:15:06.456302 INFO    [Core] Block 27700 (d362e5261a6d77b7c98f305434e3dc7bbe14dd7c448e26b67e78f7e629b22be3) added to main chain
+2018-Sep-16 23:15:08.419508 INFO    [Core] Block 27800 (55e0ae156fbe947381f75fa65159229c2e975905e708e979e53718a020286f12) added to main chain
+2018-Sep-16 23:15:10.971151 INFO    [Core] Block 27900 (b5479406a01fc2e6440dfc2205d24e53b269ff3b4775e200c2e752e3b7b42685) added to main chain
+2018-Sep-16 23:15:13.788115 INFO    [Core] Block 28000 (65e7779fb7dc2b63284c044bb506acc2868e7297b1db90ebac674ef7a9ad8835) added to main chain
+2018-Sep-16 23:15:15.680907 INFO    [Core] Block 28100 (85dfe9e2c1bcce711389cf68f9efb7dd83e1ca8a08efe1cbbcc0b9920393d60f) added to main chain
+2018-Sep-16 23:15:17.634012 INFO    [Core] Block 28200 (88a59e1545b690e2cce0653cf3f760688523eb5101a6ce7e3059bfd68186a24d) added to main chain
+2018-Sep-16 23:15:19.526563 INFO    [Core] Block 28300 (b6145fafc74f60f384627d353fa9dba71cd36a7671c778dc61bbde1a07582ea2) added to main chain
+2018-Sep-16 23:15:21.377201 INFO    [Core] Block 28400 (8b3fe1c1bff73465e35d834550437aeaf4f76e5d12f8284619ee4687e367a9d8) added to main chain
+2018-Sep-16 23:15:23.322557 INFO    [Core] Block 28500 (235e1a143ebb7288d2ffd2590ff4f889509416b381eda829b32d221ec3742365) added to main chain
+2018-Sep-16 23:15:25.255281 INFO    [Core] Block 28600 (c1fab6d91838f775edc17c57e43c0d4b626ceaa5e6d28c5b4973146399b4d098) added to main chain
+2018-Sep-16 23:15:27.169604 INFO    [Core] Block 28700 (1dec338cf8c265f5e5c1ca30f219819ae682d1693d22f2d57e3f3366fb3b8c46) added to main chain
+2018-Sep-16 23:15:29.034776 INFO    [Core] Block 28800 (ddf296c80ce9c3222d495c57bca96a4f6dc1ff7df8d83ddf20c049d345afa300) added to main chain
+2018-Sep-16 23:15:30.941299 INFO    [Core] Block 28900 (c9e8bd59636739403ff69307ddfe850f3e75adf3a655a37b441fe0d5120bfb9f) added to main chain
+2018-Sep-16 23:15:32.846761 INFO    [Core] Block 29000 (c21ae6542fbdb8a60b9cb39d305748185db6d861a4d1c71874d5913a2463bea3) added to main chain
+2018-Sep-16 23:15:34.676545 INFO    [Core] Block 29100 (71955dee85b345ab7bfefdcb91a5676225a7076d0567fdf159300814d040bac8) added to main chain
+2018-Sep-16 23:15:36.564379 INFO    [Core] Block 29200 (08c18f9f3791afd070d70740251663fa1525caa9a7fcd03f236f5dbc2f6f3fa1) added to main chain
+2018-Sep-16 23:15:38.466750 INFO    [Core] Block 29300 (d76f67f7b94d0b6dcaf9b0ae910ec587af22c32b472fa5ab13d1e7a9a6f12b22) added to main chain
+2018-Sep-16 23:15:40.339321 INFO    [Core] Block 29400 (4989d70b83f284e0391e5bfadf50d20c7974d019c34d25d208200cc6c2a126ad) added to main chain
+2018-Sep-16 23:15:41.093155 INFO    [protocol] New Top Block Detected: 74747
+2018-Sep-16 23:15:42.343877 INFO    [Core] Block 29500 (5ca86c7393fb50e329a3b889de784b31560b369f59a90b6b0900cbee54afcc6a) added to main chain
+2018-Sep-16 23:15:49.747961 INFO    [Core] Block 29600 (0c5d499359dcffeb0f0d3941339ce118bf63cd7c5f3992c7af8736412904605e) added to main chain
+2018-Sep-16 23:15:51.543604 INFO    [Core] Block 29700 (fd819ed504a36cdd174097ff92a2adda8e373beac558ed84b0cd14c357f220ca) added to main chain
+2018-Sep-16 23:15:53.371696 INFO    [Core] Block 29800 (3c2ebacb7c9c675e670b5616ccbe4f6aa76ba3f06d574fac8ae0835d6b8cc1e8) added to main chain
+2018-Sep-16 23:15:55.117743 INFO    [Core] Block 29900 (ed25a9c141f329ad0270abdbf47170b9a07229ef0f3cfd765efdcdeef2c4f8b4) added to main chain
+2018-Sep-16 23:15:56.986072 INFO    [Core] Block 30000 (4fee4f7a739a543d510aa3f671c011d3478d1cce877976de62a301bfa408b661) added to main chain
+2018-Sep-16 23:15:58.852492 INFO    [Core] Block 30100 (a390e6092b88ec150019659976685e6f35cb45426f66fbc3d07b6155e06d2cc2) added to main chain
+2018-Sep-16 23:16:00.793853 INFO    [Core] Block 30200 (c88f15749b5bd2ccf6028ff9171ef40472a87bb2f19538b3f335b1a5630062bf) added to main chain
+2018-Sep-16 23:16:02.642862 INFO    [Core] Block 30300 (0327c6c5bf6c6158ff4ee891af2a5347d979e08f38bd3c3b9be489a0e760b500) added to main chain
+2018-Sep-16 23:16:04.699028 INFO    [Core] Block 30400 (16639d2d95efb7c438b65a555b1fd6d824aff4ce4279887f42deddf82dd3576d) added to main chain
+2018-Sep-16 23:16:06.734339 INFO    [Core] Block 30500 (6b696a138407feb38c2aa60f8334e0dcbb05527fc6f35befc19a4dc6663cb9b8) added to main chain
+2018-Sep-16 23:16:08.766327 INFO    [Core] Block 30600 (4061af65a4c131ed75adfe276afaf46a171bc19e199cf07509956fb2d923f47a) added to main chain
+2018-Sep-16 23:16:10.714172 INFO    [Core] Block 30700 (f0f675789885ea63d39ca778587841eee755bffe5a0a0a15931b3b9c1978e6a2) added to main chain
+2018-Sep-16 23:16:11.646327 INFO    [protocol] New Top Block Detected: 74748
+2018-Sep-16 23:16:12.731098 INFO    [Core] Block 30800 (7fd2fde1267d448c7752ee816937211b45fd9ee57ed372675e5a3d0a53020d3e) added to main chain
+2018-Sep-16 23:16:14.669577 INFO    [Core] Block 30900 (97cb9cf2a3986183dce442e52f5ee8747447a65d5a398222c0b3f885c42910b2) added to main chain
+2018-Sep-16 23:16:16.548756 INFO    [Core] Block 31000 (6c294b8e9234ba573b57f3fa7510ee6739e83d173912cce564f32184b0510a4d) added to main chain
+2018-Sep-16 23:16:18.510141 INFO    [Core] Block 31100 (bd8c32474f0d8764cb8ba073e1574cb65fa188f906f9da98aa29d0aeb0487099) added to main chain
+2018-Sep-16 23:16:20.444582 INFO    [Core] Block 31200 (b5bbdbaee05c3ff89a8af7b57b519ff9acaa1ec0f262ab9e0db8def83b916c00) added to main chain
+2018-Sep-16 23:16:22.300115 INFO    [Core] Block 31300 (6ef5c86057fd6fdc222d7167eb270568e171622aa0700fa443a4a3a29cc9338e) added to main chain
+2018-Sep-16 23:16:24.145637 INFO    [Core] Block 31400 (d122b2240ae7d3ffba268889afb4a5bfa89f433b34819ce953f1273b5b5d737c) added to main chain
+2018-Sep-16 23:16:26.065635 INFO    [Core] Block 31500 (aba0975b0c4d3a3c1e17d7822a0a173ba9328f29b86a5791616f89df86d33e8f) added to main chain
+2018-Sep-16 23:16:28.098093 INFO    [Core] Block 31600 (6d297c55f219e6a95725a20a4ba00e37fa844994ec5e44319823f367a3fd13ad) added to main chain
+2018-Sep-16 23:16:29.887543 INFO    [Core] Block 31700 (b9630decb2b0e7ca8e4c0b45bf236b3639bec26769961c8bcc8aa24ba91a5161) added to main chain
+2018-Sep-16 23:16:31.745664 INFO    [Core] Block 31800 (1a3f875e6ea69967ac19fc4abf83a1d647df208a6d4d11f94ae40557dc625fd3) added to main chain
+2018-Sep-16 23:16:33.635023 INFO    [Core] Block 31900 (e29ca4c12542ddde75e5377a5b5147723a9ab760c6d42485548e5bbfc2d477ca) added to main chain
+2018-Sep-16 23:16:35.476072 INFO    [Core] Block 32000 (f4c2bdabd3c106ef640accb58761abc1a2feb5f756b70c4bdb8261db366d1f6c) added to main chain
+2018-Sep-16 23:16:37.290076 INFO    [Core] Block 32100 (2af59521fa9264f5e7dac4c64e859f4e4c8af9bf25e9e8bd6936b46f6f3859cf) added to main chain
+2018-Sep-16 23:16:39.136320 INFO    [Core] Block 32200 (1842e363d96b80a220feacec896e5371aaef27ad2501a347eac93d408da0f979) added to main chain
+2018-Sep-16 23:16:40.949286 INFO    [Core] Block 32300 (9ba36f27e5fd01b784f375c71b962e6d049c0b6fa727423f4a601ac5a1554ebf) added to main chain
+2018-Sep-16 23:16:42.824701 INFO    [Core] Block 32400 (f888a136b3e7ce89d545e68cb1d9a666d595c4867ed1cb419f0732a657379bf5) added to main chain
+2018-Sep-16 23:16:44.712807 INFO    [Core] Block 32500 (18643cf730d868fb7d5b3c1cb62e333ae3b81d36628f6f367326b6da52a3215f) added to main chain
+2018-Sep-16 23:16:46.590036 INFO    [Core] Block 32600 (6c77ee2bc001caab5b872c125fd298ac1c1737c9847a6cec21d54cbaeaad7d72) added to main chain
+2018-Sep-16 23:16:48.480062 INFO    [Core] Block 32700 (95e25bb16f1b2248119842b7c38199db359aaaa77a88984ed1fec5a5c05728eb) added to main chain
+2018-Sep-16 23:16:50.386097 INFO    [Core] Block 32800 (35c58c5b04d1cb1e8769e0fc4858dc56a55fdfaf5c683446ca20965f09283e99) added to main chain
+2018-Sep-16 23:16:52.250781 INFO    [Core] Block 32900 (23ee6543f15e1c5872d9860a4d82a19d4f12c6a8942addfbf4238189fa18a0e0) added to main chain
+2018-Sep-16 23:16:54.234845 INFO    [Core] Block 33000 (688cde3deb12fb482bb7f3418ae42e08f9059a4a2ba0485bf29353cc75a6396b) added to main chain
+2018-Sep-16 23:17:01.244659 INFO    [Core] Block 33100 (64c5cf93276304323b6dd0a079322880587a7f4a0a015766c6728c46fa151876) added to main chain
+2018-Sep-16 23:17:03.937492 INFO    [Core] Block 33200 (bdde5a2dee172d02e4f9487866fb6897b50b454a0d2c1d8e7076b07545804e44) added to main chain
+2018-Sep-16 23:17:06.802049 INFO    [Core] Block 33300 (2e1991c5e57dde927c1e07798c0fd3f006bc92017236b78569f1c4f7a8cad3a3) added to main chain
+2018-Sep-16 23:17:09.600155 INFO    [Core] Block 33400 (fa3c1309bbec8e7d525f12d7e1e066835f252b80d9e635f76fa3a97760e3826d) added to main chain
+2018-Sep-16 23:17:12.443757 INFO    [Core] Block 33500 (7563c45acf96298b18a566cdf84970bdca046dd93de7615921c378037cca9dc3) added to main chain
+2018-Sep-16 23:17:14.864807 INFO    [Core] Block 33600 (212f82d3d90c2b88c472648ead78302bb458b92c4c3555ddbfb3627691edcb27) added to main chain
+2018-Sep-16 23:17:17.408267 INFO    [Core] Block 33700 (dbc9aec974548e01adb910d4ce55e412c1118970012e42ec7bbe6e283d4c8ac9) added to main chain
+2018-Sep-16 23:17:20.404960 INFO    [Core] Block 33800 (291ee319e24a56c0fa4c6c4a11633867b50cacfd1c0646b0cefdd464176627cc) added to main chain
+2018-Sep-16 23:17:23.282909 INFO    [Core] Block 33900 (377265e6de2c8fe1643cdb648d9cc51dcfeb1a4b78e67c4bca5e648b86f7ddc0) added to main chain
+2018-Sep-16 23:17:25.981102 INFO    [Core] Block 34000 (7a7d09cf4761338d27234b8b7f85da7c55c5aae1f26318f8d138877a84e17cd6) added to main chain
+2018-Sep-16 23:17:28.754587 INFO    [Core] Block 34100 (2985ebc3f12c376cbec683f4fa1d683a7320eafca85e9602bd82c68ea8635f17) added to main chain
+2018-Sep-16 23:17:31.269349 INFO    [Core] Block 34200 (087672bba2f7990812dea938391156ee68c96887f3516f215907d48ca7c6948b) added to main chain
+2018-Sep-16 23:17:33.655493 INFO    [Core] Block 34300 (55cbbd354ec9cad0984754e0b42e4ad2fb195949e31950073cf53d357327db9c) added to main chain
+2018-Sep-16 23:17:36.223507 INFO    [Core] Block 34400 (9b388e116b5f36a7dc8115bf2d56626c80c2a1d3f51db8af4f26f51df3e6adc5) added to main chain
+2018-Sep-16 23:17:38.798600 INFO    [Core] Block 34500 (0e40c15b035babeef2d2711457ea002ef855d6251f8193542856b31558a3855b) added to main chain
+2018-Sep-16 23:17:42.761413 INFO    [Core] Block 34600 (dc1b7c9ba8eefec8d1a0eda1ac1afb3dde5280a7804eb51fba8238a42e78aab0) added to main chain
+2018-Sep-16 23:17:45.261886 INFO    [Core] Block 34700 (cad6d785b1f4d9ad14327a586c220f087f1b85658444feaf75a5468802c3a297) added to main chain
+2018-Sep-16 23:17:47.744704 INFO    [Core] Block 34800 (3657e93ca31798c8d6f4a5521843747d8c59beeace851bf84885d071f40addce) added to main chain
+2018-Sep-16 23:17:50.079150 INFO    [Core] Block 34900 (aa8b5f91fee5e05ee626ac0684a90683b2bc416441cdd0c85bae89d899401fdc) added to main chain
+2018-Sep-16 23:17:52.369047 INFO    [Core] Block 35000 (7732777838adeae0c393063f84af225e63a7b38a1cc8beebb112f3625bfc06fb) added to main chain
+2018-Sep-16 23:17:54.726006 INFO    [Core] Block 35100 (f0b78c8d34b68c3c7d5a2bed67d672d5ed17a334420447cb04bfdc795ec7cd1a) added to main chain
+2018-Sep-16 23:17:57.220435 INFO    [Core] Block 35200 (ad3115a1dc1cf614b4bcd9801c1a4acbbf49cba4333469724554d1bbe85bd8d8) added to main chain
+2018-Sep-16 23:17:59.713453 INFO    [Core] Block 35300 (5df711f519e8e0cb065c84d2a98d4d70dae79052f88b5253f8bc47399ebc2ec1) added to main chain
+2018-Sep-16 23:18:02.061864 INFO    [Core] Block 35400 (1916f87a06a4a5f504a6c0aa4eca0dd0f7287faf465b8018734519815a7457cb) added to main chain
+2018-Sep-16 23:18:04.538172 INFO    [Core] Block 35500 (d18eef2c6c7fa01f1a975f96b6923a72e046d25f7dc2d2940ff92c862435c714) added to main chain
+2018-Sep-16 23:18:07.015165 INFO    [Core] Block 35600 (5b9c4da179ccbf717ecc8def8e27282881b0e0fc12ad91871085420dae1fabda) added to main chain
+2018-Sep-16 23:18:09.433619 INFO    [Core] Block 35700 (729abfe685920c05b5986e07979930e89a55c773c7508be1a52294b93936b1b2) added to main chain
+2018-Sep-16 23:18:11.759466 INFO    [Core] Block 35800 (e67e5f0502022c4e99a5e19b0ac2ad67c6da203aef2b91ebaa4380bf9cf99b4e) added to main chain
+2018-Sep-16 23:18:14.300347 INFO    [Core] Block 35900 (18e844ebd628aa1f529fb31bef70b296d0f61958b70b0092313a9369251c4271) added to main chain
+2018-Sep-16 23:18:16.587071 INFO    [Core] Block 36000 (77eb0e43bc27c963482474cbafbfa123efff9411ed8be86406225e3d632e5643) added to main chain
+2018-Sep-16 23:18:18.976861 INFO    [Core] Block 36100 (8e7cc11d1707ce363f29b13fff57333f5c4b354d78ab7c05b24264aba0dce2ef) added to main chain
+2018-Sep-16 23:18:21.176475 INFO    [Core] Block 36200 (4b9c086f161d2cf80f5a4f167390deab761651e6e0b0a5adcde29a180defa528) added to main chain
+2018-Sep-16 23:18:23.395729 INFO    [Core] Block 36300 (1b929d94436ea3f8761ff541227ae32456eb1c4220cfe66651c13ba8feeac542) added to main chain
+2018-Sep-16 23:18:25.600379 INFO    [Core] Block 36400 (2b0eeb34020871f9bb5ce96211fa82300a022334f3ae8606f175b154478c3ed3) added to main chain
+2018-Sep-16 23:18:27.599081 INFO    [Core] Block 36500 (2c6b42ae4a9b9b00299651b664c131ea66263a954cb5f481eea15106bbc3b744) added to main chain
+2018-Sep-16 23:18:29.751639 INFO    [Core] Block 36600 (f7bb3bb062072b6a1880b33623f1557ef93de4f51eabc60a59b0b97572dbec7d) added to main chain
+2018-Sep-16 23:18:31.943723 INFO    [Core] Block 36700 (32f9b7387845823fb12adc1a63f4dab86d8de582a7f759dc8451c8cb6932caf8) added to main chain
+2018-Sep-16 23:18:34.067157 INFO    [Core] Block 36800 (62965bf61d3e11bc0b089cc805994c96e891e22906e8967ad7ae38c3fd105060) added to main chain
+2018-Sep-16 23:18:36.203429 INFO    [Core] Block 36900 (22c89f3c0955302ca497aad84aa6cb38f2a0eead9ff64d06e16b6d9e792ff5e9) added to main chain
+2018-Sep-16 23:18:38.461080 INFO    [Core] Block 37000 (23d7ebe6ab02638a4dc5a983329a83459c826ec18bbd74d59c4826cad0cdcc5a) added to main chain
+2018-Sep-16 23:18:40.406810 INFO    [Core] Block 37100 (591725f197ab46d87529f7fd9bd810169251bec621ae37fe782fd955a8284508) added to main chain
+2018-Sep-16 23:18:42.422844 INFO    [Core] Block 37200 (ed967cd92252933cbc9110bf017f66f4348c4e976c76600c201a074bbe4f2215) added to main chain
+2018-Sep-16 23:18:44.450406 INFO    [Core] Block 37300 (a8d260ce40cf1e8b66bc1f79b2b8a3a9ce2fc117504a3f975a9e833c7e4136ac) added to main chain
+2018-Sep-16 23:18:46.440549 INFO    [Core] Block 37400 (e9c733b81d5c22aa8b23eed4cb5f6c1087092ad6d8ac6de4d61463990a60fa62) added to main chain
+2018-Sep-16 23:18:48.500348 INFO    [Core] Block 37500 (21839d8fd5ba3e01249cd191b141b9a774071c0f58282c6a694955bb6b140074) added to main chain
+2018-Sep-16 23:18:50.637427 INFO    [Core] Block 37600 (c78effbe3b043a59b4f1f6f241556cfa43cc6e180053bfa5fc8acbb57411d08e) added to main chain
+2018-Sep-16 23:18:52.803506 INFO    [Core] Block 37700 (eb62568dae9ad387a06536f078a41c3ad0d2a8758f3d9a77b16be3d187bec5f4) added to main chain
+2018-Sep-16 23:18:52.833199 INFO    [protocol] New Top Block Detected: 74749
+2018-Sep-16 23:18:54.888410 INFO    [Core] Block 37800 (7962ab205fd0982f38ce0d93a6ee5661d37429a9230fa7b18a63d6b8f183f9d6) added to main chain
+2018-Sep-16 23:18:57.168801 INFO    [Core] Block 37900 (e39e3092762f0ddcfb5b51f58ea3b7e59997500cba601fd7d1c5f681d073053c) added to main chain
+2018-Sep-16 23:18:59.306929 INFO    [Core] Block 38000 (57d6b2d68e07dfb3f96d92fca0671045990812254b6763e8668d64c442b2c226) added to main chain
+2018-Sep-16 23:19:01.345098 INFO    [Core] Block 38100 (71c63f8297d0ac850e0554b20bde173b1435d3bfe39f853e635d78b337398f11) added to main chain
+2018-Sep-16 23:19:03.571445 INFO    [Core] Block 38200 (3f26c52fa99406fcc41ec884f2278549d80a1a9f3f6f1c4dcdf50963367e29c3) added to main chain
+2018-Sep-16 23:19:04.239669 INFO    [protocol] New Top Block Detected: 74750
+2018-Sep-16 23:19:05.645509 INFO    [Core] Block 38300 (6ede3f4d24b9a2790d978294d930b8883ed6c7eef94f021c80d1bd0989ded192) added to main chain
+2018-Sep-16 23:19:07.665613 INFO    [Core] Block 38400 (7303d116e813a2d02a856c82c8dd36bc2014d9d78d70c98da3751aa865ab1fa4) added to main chain
+2018-Sep-16 23:19:09.474731 INFO    [Core] Block 38500 (02decdd75792837f3603c17d50a39a88007bffb274f8bff1860319260feb9d7c) added to main chain
+2018-Sep-16 23:19:11.521523 INFO    [Core] Block 38600 (dc0bf7e27e9c94d350a24bb62d89b659aca466f62009ff9799433c2df0dd38b6) added to main chain
+2018-Sep-16 23:19:13.692116 INFO    [Core] Block 38700 (b4c701152e26f549ad6d244f8dbbb743f0781098a3d5ad747a8585eaa04c607e) added to main chain
+2018-Sep-16 23:19:15.881440 INFO    [Core] Block 38800 (2abb4616bbc41f0189ab0dcb8f8cf9ee72e427b1d8333ba0ec51cc197288143f) added to main chain
+2018-Sep-16 23:19:18.049909 INFO    [Core] Block 38900 (a70c1d04a450b3acc024e2d48c7bdd5e69b348f35894f9da86a8a700130d6e8f) added to main chain
+2018-Sep-16 23:19:20.240156 INFO    [Core] Block 39000 (c6e2bbe0e65b34139b0142842ceb1c369d80b9b41e119df7ef7e7e7251a63bbc) added to main chain
+2018-Sep-16 23:19:22.147363 INFO    [Core] Block 39100 (e392adc338f8dcfd8159f3cfe0967c9cb515a2141646bf4a0b83397096d13e31) added to main chain
+2018-Sep-16 23:19:24.363061 INFO    [Core] Block 39200 (b41e5e56283d8de31f3bfb159d4e25ad080f8cdec28c5d820bb4d5b6bf48eda8) added to main chain
+2018-Sep-16 23:19:26.684028 INFO    [Core] Block 39300 (0ed9cbbd952356147224fa65d57dd7c7c1176c21280bb7f7caabccca13fdce45) added to main chain
+2018-Sep-16 23:19:28.700515 INFO    [Core] Block 39400 (1216ec175e16dca0f42f8c390c97524db4683d3c45f6e25e715c8e222ca90d57) added to main chain
+2018-Sep-16 23:19:30.862970 INFO    [Core] Block 39500 (d22c7667009f50a055567e3a1a0a29c2cddeda3094db062bb3a6e09dc0baf025) added to main chain
+2018-Sep-16 23:19:32.839427 INFO    [Core] Block 39600 (a0ec33affaf0bf07f428956998bcde993d77d56eb1fa448f5eacd429d02600b8) added to main chain
+2018-Sep-16 23:19:34.832488 INFO    [Core] Block 39700 (daa2dc16da8ab591b9b8d1558ca2d174b2139ec03ea65baa0198b4006ce204c2) added to main chain
+2018-Sep-16 23:19:37.013611 INFO    [Core] Block 39800 (0e4db58a9673000df14539a207b76058e314afe2aa2c4af094aa17ff4292d6c1) added to main chain
+2018-Sep-16 23:19:39.008127 INFO    [Core] Block 39900 (7905d5e8fcabc28bcd4b5361093b64180d8d410cc517993cb942696687ef740d) added to main chain
+2018-Sep-16 23:19:41.233012 INFO    [Core] Block 40000 (194dfda00c9f5bf4f196d886ebc29e254efb0f64db125b8a18f8a7b67615c116) added to main chain
+2018-Sep-16 23:19:43.509244 INFO    [Core] Block 40100 (259f6e4f59907c7d6fe72dffb43855c1c7eb8be95c3c6b17da98b7e6623ebffd) added to main chain
+2018-Sep-16 23:19:45.612010 INFO    [Core] Block 40200 (09a4ffd011f7ae4156c81f91dbe07c0cb773a36e4539375a105ec36638538e0e) added to main chain
+2018-Sep-16 23:19:47.896145 INFO    [Core] Block 40300 (66a02a3cf045a6e5fbe55b8dcd118d53769c082f45e38c2259388ddba2965f96) added to main chain
+2018-Sep-16 23:19:50.215306 INFO    [Core] Block 40400 (732e619b1854d8128ebd0cfa82a963305af9c160aa5611e7dfa931c7b3c102b1) added to main chain
+2018-Sep-16 23:19:52.455439 INFO    [Core] Block 40500 (3651ceee682a7a5b46749161c07eafa7ee669b521ade08bed7edad58d8402afa) added to main chain
+2018-Sep-16 23:19:54.636360 INFO    [Core] Block 40600 (77a33c6dfe47424992efc3ad5509addaecca07f003ef94952ce4ca06f8a65b05) added to main chain
+2018-Sep-16 23:19:56.745800 INFO    [Core] Block 40700 (1442c3f94889aeb6d448c132c94305424e5707536104200b739d0bbf97ec0341) added to main chain
+2018-Sep-16 23:19:59.110833 INFO    [Core] Block 40800 (53d196cb74087ca85054679209293b78bca28f32ea8a54540bce7369653da03e) added to main chain
+2018-Sep-16 23:19:59.466328 INFO    [protocol] New Top Block Detected: 74751
+2018-Sep-16 23:20:01.217201 INFO    [Core] Block 40900 (1779416c7511ee3bc51ea1370bc0fc281826fb1f30e51b6656de771780feffa0) added to main chain
+2018-Sep-16 23:20:03.270156 INFO    [Core] Block 41000 (d250d7d2b58adf2b20220cd17ec5b490fc74a31667e4d13780ff8da3a6317241) added to main chain
+2018-Sep-16 23:20:05.332066 INFO    [Core] Block 41100 (92fef3a8ac317a20f3080cc10d896342dc767f0195199a74b84ca21e494a8656) added to main chain
+2018-Sep-16 23:20:07.402321 INFO    [Core] Block 41200 (cd1ff7368abde4a6f1e0ec10a02b437d0c2b7ca361720b5bdbeda5911cd45b52) added to main chain
+2018-Sep-16 23:20:09.579191 INFO    [Core] Block 41300 (bd791df707b756a33565b8a036161d3cffc62f56019e69fcb428641d94423932) added to main chain
+2018-Sep-16 23:20:10.516174 INFO    [protocol] New Top Block Detected: 74752
+2018-Sep-16 23:20:12.007434 INFO    [Core] Block 41400 (afe9f3ac572dd2f63f02e0ddc4060ff1234c768cd78e0d6261087f6436c1e343) added to main chain
+2018-Sep-16 23:20:14.287726 INFO    [Core] Block 41500 (44455cf56c33d6e540e84b110a697a110ebe15ae1ed4ed5e1b5858baf1080897) added to main chain
+2018-Sep-16 23:20:16.364929 INFO    [Core] Block 41600 (0e0672f1f4eb4cf4c9cf47235869d8ab20ae7d8d8b001eca337d81cf68a2cd8d) added to main chain
+2018-Sep-16 23:20:18.547067 INFO    [Core] Block 41700 (e303d669d5e66b57029cb34a52a08a870c2755a324470ecbe9340b7eb9f86050) added to main chain
+2018-Sep-16 23:20:20.656031 INFO    [Core] Block 41800 (c2831b22d628108dea3c92eb50c71a122287e994f23a37479783d4a1378302a3) added to main chain
+2018-Sep-16 23:20:22.942108 INFO    [Core] Block 41900 (c31e0efddb1bf3ca800255d6e94636a61a66670219aaa4aabc2fd563f434640e) added to main chain
+2018-Sep-16 23:20:25.730833 INFO    [Core] Block 42000 (2148b20342fa0f110c0f9136107f7ac1bf09357a0bd14f37608ba46b405cd2dd) added to main chain
+2018-Sep-16 23:20:27.972408 INFO    [Core] Block 42100 (363772c0a36c6a61167b1408025ca492edaa277c2fd90a033a9793685b98da4a) added to main chain
+2018-Sep-16 23:20:30.169983 INFO    [Core] Block 42200 (54769119c193197525fd2e878ef66587d88933b95b48daefdea1a96172691897) added to main chain
+2018-Sep-16 23:20:32.239991 INFO    [Core] Block 42300 (97cf72c4399e8a337004103478b7cabbeff16abc14fe0ee5ac2b2196a999a196) added to main chain
+2018-Sep-16 23:20:34.576147 INFO    [Core] Block 42400 (15a661e2d86e2add1a714d8b39b8e44d04033197534621fe2cabebe3631e0d87) added to main chain
+2018-Sep-16 23:20:36.728763 INFO    [Core] Block 42500 (81cdadf2f875608566eb349a6ad6f7773df69c0fb052d8ce9c1f17b72f693bbd) added to main chain
+2018-Sep-16 23:20:39.059526 INFO    [Core] Block 42600 (76887862f0604070e387690676f166137b56a5b0df69b911170dd3c3524314d4) added to main chain
+2018-Sep-16 23:20:41.481724 INFO    [Core] Block 42700 (5826b3fa47bc1810e106ca2f40862b407eecab3727da5869feb95fcf9b099ed8) added to main chain
+2018-Sep-16 23:20:43.809933 INFO    [Core] Block 42800 (91751f63aab50f838d8d19e5d1fa11f4b4e94efb878bfafa9117cb9f5c3792bf) added to main chain
+2018-Sep-16 23:20:46.215873 INFO    [Core] Block 42900 (19388c3c8df3fab739f6a761a1e585f9f0ad0f8b4af1e3f37fc3c40f273ebc6a) added to main chain
+2018-Sep-16 23:20:48.949031 INFO    [Core] Block 43000 (d8aa304a3b179e0845d792cd660dc8ffc0301596144a0df8c9fd339c2ca60823) added to main chain
+2018-Sep-16 23:20:51.567583 INFO    [Core] Block 43100 (150ed320bce9415b3f2e4ffb2dbf8139f34f04963fa0d05a61e9d39e4eb75cdd) added to main chain
+2018-Sep-16 23:20:54.471525 INFO    [Core] Block 43200 (4f1f462a65624ee737cb0144dbf00f9a78b4220c9a05b71a88a88f40402b6ec2) added to main chain
+2018-Sep-16 23:20:57.004753 INFO    [Core] Block 43300 (163f479ca12ad11000628f794bfed3a4c9d17104e71c068070adba49cff0333b) added to main chain
+2018-Sep-16 23:20:59.248480 INFO    [Core] Block 43400 (14677fe11278a3691bf663070cd69db4d337d3a066336afa0e2e8596949516ea) added to main chain
+2018-Sep-16 23:21:01.840802 INFO    [Core] Block 43500 (17bf1ec2f69817dfdecf83a7be02d34895c8de72dc3751773b98ba9980a5032c) added to main chain
+2018-Sep-16 23:21:04.210409 INFO    [Core] Block 43600 (a9a235faaf4305ca74693955e0bbcbfee81437535ea85e21e29638c7ab9d7633) added to main chain
+2018-Sep-16 23:21:06.563716 INFO    [Core] Block 43700 (ea7c8ed1a894b8103eba81b171c5380a9c4949e89f7c5b5bc748cdcd4f64c741) added to main chain
+2018-Sep-16 23:21:08.849544 INFO    [Core] Block 43800 (e48dc4eae2f56b1d573ad21b7dbb0120dee93c48d2439cc92265edac87df05d2) added to main chain
+2018-Sep-16 23:21:10.945870 INFO    [Core] Block 43900 (6402e04090a114d9e19e12759ed1f1e6c3f2a5d0f28a3ff5550108d831dfba90) added to main chain
+2018-Sep-16 23:21:13.062032 INFO    [Core] Block 44000 (be0b2e5c65a2d53f7881d657cae3aa5cf6b6abf9115c0eccc16aadb5c9f4f29a) added to main chain
+2018-Sep-16 23:21:15.322429 INFO    [Core] Block 44100 (44f9d5de4b30bab7d7ce98a217f82d0da981d25df72ab1bf84fddf66624c2347) added to main chain
+2018-Sep-16 23:21:17.741169 INFO    [Core] Block 44200 (b7b15f860cf75e96d469fc0d799dcc5fda86947d72b2ccf79bbda3f5c70870ae) added to main chain
+2018-Sep-16 23:21:20.121544 INFO    [Core] Block 44300 (e9f3e439583837c92e09b1f759b2b75574452e2129b22216a76ec7abeb690304) added to main chain
+2018-Sep-16 23:21:22.417094 INFO    [Core] Block 44400 (8707a8340f3842d2ff496b751cc8bad01c0cd08a8b921f35d3489e8cb7192144) added to main chain
+2018-Sep-16 23:21:24.638358 INFO    [Core] Block 44500 (9bff7b7102a643e42f9fbcbdef9a301e804c09f286d623d3ce07995d8de99a6f) added to main chain
+2018-Sep-16 23:21:27.000713 INFO    [Core] Block 44600 (621cfcb5c8b7a96e7c4d317d90874d51cd6fd59833115be1fb7b338f8f5c52d4) added to main chain
+2018-Sep-16 23:21:29.331775 INFO    [Core] Block 44700 (2a2cbeb720faf8986951a6796dde266acdc99d16ec773617ae7cbb1fc278abaf) added to main chain
+2018-Sep-16 23:21:31.622606 INFO    [Core] Block 44800 (61072d4fa1a7487bd0fa0297f2e60525c56fad0a267deb612dc254d698a17f42) added to main chain
+2018-Sep-16 23:21:33.613792 INFO    [Core] Block 44900 (ab813bbd1c1313146c94f80b933fc23ecfc73ca1ff71fd7bf67d49b2650834bf) added to main chain
+2018-Sep-16 23:21:35.337594 INFO    [Core] Block 45000 (6a526a1dd9fde4eb946932cb6ba082c16b46ceb23754eb7c2942db5ce85fb09e) added to main chain
+2018-Sep-16 23:21:37.282385 INFO    [Core] Block 45100 (0da0c3b159992ddaf07bf27c953caa6a6d8184334801df5fd3b05ecd2a0b43ff) added to main chain
+2018-Sep-16 23:21:39.158041 INFO    [Core] Block 45200 (19ae3368b7124d4c5a6da3b43cf7cb4e4b71fd2bcd99fb0c98940c375feb0b9d) added to main chain
+2018-Sep-16 23:21:40.984649 INFO    [Core] Block 45300 (5e14aba99595a1cb29f7598cb803050ef4ec4a5da89a70070199743342444338) added to main chain
+2018-Sep-16 23:21:42.830790 INFO    [Core] Block 45400 (786ccf54e101c92acc6dc1e81bd2c6e2db800658f11ff1d6929b6c85f1531769) added to main chain
+2018-Sep-16 23:21:44.783969 INFO    [Core] Block 45500 (cde44a88520a74396b4a2f1c3beb026455dc75e69754b864c3f6839f689f802c) added to main chain
+2018-Sep-16 23:21:46.983203 INFO    [Core] Block 45600 (dddc163734c54d06e2c42c817ecec728fb41e4d5ac09ae10668234f8a94dc1b4) added to main chain
+2018-Sep-16 23:21:49.174436 INFO    [Core] Block 45700 (759dc52e2ab972c2e4c9a77752e93978978e6154e4041b08184a32ebc0f9bb0b) added to main chain
+2018-Sep-16 23:21:51.344439 INFO    [Core] Block 45800 (7374df9e936d3f9e8c0ddde7cd26236c0e5c0910cd6ab9ef7a9d891ee1f1ffd1) added to main chain
+2018-Sep-16 23:21:53.482915 INFO    [Core] Block 45900 (88be4f38c674a69e57f09689a03b320567257aa31b947af143d587cc947c3d8b) added to main chain
+2018-Sep-16 23:21:55.750779 INFO    [Core] Block 46000 (c8a635cea8b2efafb3e7f98b32686bfba24ce4d9e78f56594dee56dbbf40ea16) added to main chain
+2018-Sep-16 23:21:57.912806 INFO    [Core] Block 46100 (c15815c69c5d1ead96376a3094ebed57e569d82fd00f577df96f5b705bbfb5fb) added to main chain
+2018-Sep-16 23:21:59.941220 INFO    [Core] Block 46200 (3afd7c8b12d4b15ab0a3feb2481d3b87f6b085bf92db33c8b47c062bb56ad935) added to main chain
+2018-Sep-16 23:22:02.032520 INFO    [Core] Block 46300 (9ebaf8bc5eece152217341c252d7e9138c4e657dfed49ac4cebf456350077fbe) added to main chain
+2018-Sep-16 23:22:04.087655 INFO    [Core] Block 46400 (7223bc370dc9922123d95bfc085ed116ef263208fe54ed6716aec265e0a78167) added to main chain
+2018-Sep-16 23:22:06.233332 INFO    [Core] Block 46500 (693a4ed59936f7623c0d3eab0003f259dc0dcbb98dc171dec135fbd4eca196a4) added to main chain
+2018-Sep-16 23:22:08.303641 INFO    [Core] Block 46600 (73bcb9d885a5e555cba45b1da9480499281e92ebd96b72a0380cb81a70ff5ab2) added to main chain
+2018-Sep-16 23:22:10.651832 INFO    [Core] Block 46700 (945d879dd043ca45a9b14918738815bd1d4ebd13d34ec49e1cb1c7d8b26c06af) added to main chain
+2018-Sep-16 23:22:12.825839 INFO    [Core] Block 46800 (89b28a39aaa390379cd473fd7f3dae77cacf574f69f0f9a4eac495543a25dff1) added to main chain
+2018-Sep-16 23:22:15.066286 INFO    [Core] Block 46900 (e3291a3be6e654ce261fc59eadd4dad83297d21d5bf1f0e1253eeb63d6304269) added to main chain
+2018-Sep-16 23:22:17.255086 INFO    [Core] Block 47000 (5a1745ab9ec3668a3d81706217c075ac1aee0be865e9a44f554aac1488a422dc) added to main chain
+2018-Sep-16 23:22:19.359906 INFO    [Core] Block 47100 (a11071efd521db7f659ad2df10445af20c5eb9387f3b413c49eb3aee73643161) added to main chain
+2018-Sep-16 23:22:21.575855 INFO    [Core] Block 47200 (254de2b54e657e2714656a76596a19761d52b93aa176b6b1b1933d3054424aa4) added to main chain
+2018-Sep-16 23:22:23.812626 INFO    [Core] Block 47300 (5eba04068e33206dfa26fe579bbadc100efe8851ba10879a81a16f443e3fc0d8) added to main chain
+2018-Sep-16 23:22:25.990159 INFO    [Core] Block 47400 (74c35aad4c2b1e7bf4242373af08fee9d80a58613cc87f431114d7247de8b3e9) added to main chain
+2018-Sep-16 23:22:28.148157 INFO    [Core] Block 47500 (59c89813d1e1c6acf188e765dd3053b34fa8649f44e03c2d21c36f02b22caa6f) added to main chain
+2018-Sep-16 23:22:30.053931 INFO    [Core] Block 47600 (ae1d032fe424630307b496b187683ffc14b44654bc23106e63b3c245ebd1d9f1) added to main chain
+2018-Sep-16 23:22:32.011293 INFO    [Core] Block 47700 (f82bd9129ca2532c829d7c3bc70c8f7d76df6854cef09909b01113625760a8a6) added to main chain
+2018-Sep-16 23:22:33.969124 INFO    [Core] Block 47800 (5796db59c6da008e838ea3d7ecc590025f9a13f29a3365039d57c632ab439fbc) added to main chain
+2018-Sep-16 23:22:35.810013 INFO    [Core] Block 47900 (31c12e4c8768657e6cc2363354cf8231238af7de4ab5bc9b3864f1bfd134d4e5) added to main chain
+2018-Sep-16 23:22:37.625970 INFO    [Core] Block 48000 (d820206dd44627e31d4c2b5c2df37f641ac6f376d16b92360d950453fe30e281) added to main chain
+2018-Sep-16 23:22:39.923150 INFO    [Core] Block 48100 (fe5dbfe171a73cf5635f5a7602029d762005268b7a3141dff5d44568d695890d) added to main chain
+2018-Sep-16 23:22:41.975408 INFO    [Core] Block 48200 (916505cd0fdcea70c5d9bedc477452e2c5b0f6da6cb7cd17e8baabac0e82e56b) added to main chain
+2018-Sep-16 23:22:43.950419 INFO    [Core] Block 48300 (d4c41b568add3e2e2c86cad85be0ecc8cd6f0c6ae2c52873d08f8f44d5eb4c56) added to main chain
+2018-Sep-16 23:22:45.941642 INFO    [Core] Block 48400 (74f60f896d945bbf8d23845d34604d52ba5bb5e58625750092878c004f113586) added to main chain
+2018-Sep-16 23:22:48.016845 INFO    [Core] Block 48500 (629a4756df53739c566d84766850fddc730eedb442ba33d39047c03c710b85d0) added to main chain
+2018-Sep-16 23:22:49.999002 INFO    [Core] Block 48600 (530f796f02efba9e13477e5aaccf00a027aa1233e2b11570744e233a03fb7021) added to main chain
+2018-Sep-16 23:22:52.050634 INFO    [Core] Block 48700 (7250a476834457813658fc34688a554a8c6a155c323bc695db3d034df7dcce8c) added to main chain
+2018-Sep-16 23:22:54.002721 INFO    [Core] Block 48800 (192d0b2aa69a93241272994e31af8dcadf0001801242061ed69d28dbdb82c896) added to main chain
+2018-Sep-16 23:22:56.198988 INFO    [Core] Block 48900 (800176b0031c98a515a1a252415530257999f918981e9af207b72263b5c44558) added to main chain
+2018-Sep-16 23:22:58.207851 INFO    [Core] Block 49000 (65dd72e66639ba715ae549fea8917e349a617152211c3afe164edfef0abea2a3) added to main chain
+2018-Sep-16 23:23:00.513981 INFO    [Core] Block 49100 (21c9ca1f216135d5f9a7c13400e8d0f97aa99f9f0cd6f98dc297d45e29408539) added to main chain
+2018-Sep-16 23:23:02.433183 INFO    [Core] Block 49200 (5cedcd4a7acadee16a68a293d7dc1bfd26bebea86a460c2a9c11ea5d7fe3ec00) added to main chain
+2018-Sep-16 23:23:04.334336 INFO    [Core] Block 49300 (36931aa0e08cd1c154ddbb4687facf6ce62bda94ddb178045ba934935b44c9a5) added to main chain
+2018-Sep-16 23:23:06.236252 INFO    [Core] Block 49400 (aa0e897302b5152263f4a6efc4b2f068e21098559632cee0302d00002d645525) added to main chain
+2018-Sep-16 23:23:08.337175 INFO    [Core] Block 49500 (2b2d270134b2fb1f98ed440120bb385fe75d71c30ed9eaca6c70e1010c60e5f2) added to main chain
+2018-Sep-16 23:23:10.380355 INFO    [Core] Block 49600 (cc3f334a5cd65280e0969907d8c8ef7f319271cbbc8039d1cf0066cf382a37a9) added to main chain
+2018-Sep-16 23:23:12.556155 INFO    [Core] Block 49700 (6a24c8b70aa5d576b4d159a898e0f7409123a8947929941e64cd746ec11ad167) added to main chain
+2018-Sep-16 23:23:14.750626 INFO    [Core] Block 49800 (b8f407204337666ed549c258869950ae767646b92febd90152a0b8af89a5ca25) added to main chain
+2018-Sep-16 23:23:17.046260 INFO    [Core] Block 49900 (2e93d7982a758e218993b16d6b523253702e60b67e6b78c647a9e42bfe57ba3a) added to main chain
+2018-Sep-16 23:23:19.201090 INFO    [Core] Block 50000 (9769e727a31acf0146d4f18ad7006a8cbe671e3043efcc944f6130744b71a05c) added to main chain
+2018-Sep-16 23:23:21.633163 INFO    [Core] Block 50100 (028fefcb69bd547e84fe297c6b73a9529a5573af5dea7a380da5c0367486b73b) added to main chain
+2018-Sep-16 23:23:23.872438 INFO    [Core] Block 50200 (ca666302d18656fde669de0004f88f28d6c3246a3a63275c77541a2eadc9474d) added to main chain
+2018-Sep-16 23:23:25.992104 INFO    [Core] Block 50300 (cf2103f33385b25462e869d9e6c0edba53506a60b097899992d76064f16474e8) added to main chain
+2018-Sep-16 23:23:28.219152 INFO    [Core] Block 50400 (647c8479a1987b45d0da06c6c8fb93d7c4495fe452cc10157eb07e8f6580f738) added to main chain
+2018-Sep-16 23:23:30.496950 INFO    [Core] Block 50500 (9f63f2017c86d087cfc1a69c94751ab1157f97ad03f38b900d07280964bd5654) added to main chain
+2018-Sep-16 23:23:32.723280 INFO    [Core] Block 50600 (f272f94deb58684b1cb58c25699ceb83295175e0abb2320d26a316e6082d5715) added to main chain
+2018-Sep-16 23:23:35.382679 INFO    [Core] Block 50700 (05b42c8441649905ae4adfd4f5aa8a1c7eefdd569421b639877c31d1108e818c) added to main chain
+2018-Sep-16 23:23:37.613055 INFO    [Core] Block 50800 (738dbb727e23588bf73764a05199897e3f85fdfe316a2c9164bc97b3c362ef4e) added to main chain
+2018-Sep-16 23:23:39.679884 INFO    [Core] Block 50900 (7ac854233d22427cd32dc958b03f70a18d13f52be968e752409fca26b1f3901c) added to main chain
+2018-Sep-16 23:23:41.756042 INFO    [Core] Block 51000 (0fc1682d2f7c79656628ee1c6d2614eb6aae6bf9ad8d4422cce806125b72cdcd) added to main chain
+2018-Sep-16 23:23:43.634205 INFO    [Core] Block 51100 (5f6f9f823743028c874fb8a705401211b7a0ffab4d5472a609ab672eccb940c8) added to main chain
+2018-Sep-16 23:23:45.703420 INFO    [Core] Block 51200 (37100242579d17dd6aa5d21b98ce4a67ad15865a285b4544d695c693a11234cb) added to main chain
+2018-Sep-16 23:23:47.628495 INFO    [Core] Block 51300 (95f04db83bd40cae67eb6abe2c69d3073a08021c92d07c9048bbadb2fe156740) added to main chain
+2018-Sep-16 23:23:49.633348 INFO    [Core] Block 51400 (577310c3e276dd8fdb77116564f8f9babc0c754d12318b98d0a74ba1b85b9650) added to main chain
+2018-Sep-16 23:23:51.775089 INFO    [Core] Block 51500 (d722f223c4e5ae2fb32529ed291e95eed0cfa9c9442048ab1937279fa8e1f16d) added to main chain
+2018-Sep-16 23:23:54.008510 INFO    [Core] Block 51600 (37a497464161c6ba213297b425de42e9e65dcb61a1009c970a393a68d61f33fe) added to main chain
+2018-Sep-16 23:23:56.149972 INFO    [Core] Block 51700 (083de2c7653db39a61beb23a0e33fe24f3ed616044190f4d8f725102e63bcc19) added to main chain
+2018-Sep-16 23:23:58.442259 INFO    [Core] Block 51800 (9017c04ae77ddae5af4a4a94ea15e6f5d58bddc766b8f8e1ea581976b4d7457d) added to main chain
+2018-Sep-16 23:24:00.813033 INFO    [Core] Block 51900 (9b038d923ef4b5d65dbacacd3ecf7b049ed206810345fac2135552bcda5dd9bf) added to main chain
+2018-Sep-16 23:24:02.832699 INFO    [Core] Block 52000 (0171dfabaa3ee428fa6ea64aa0602f5409474e0812595dd58c109fd38033142f) added to main chain
+2018-Sep-16 23:24:04.837736 INFO    [Core] Block 52100 (36f0fc9639e1f8614146b943cafe9e576cae48d271176d1595cfa7d374041f3a) added to main chain
+2018-Sep-16 23:24:07.100949 INFO    [Core] Block 52200 (c38c25b3dbb944e7056b1af422b716e595a5a1bd162567e81aa81c8471cd4773) added to main chain
+2018-Sep-16 23:24:09.234763 INFO    [Core] Block 52300 (a90bc82cada7b78310828896123ed95882d10f0651350da77ecdbaca645d1df4) added to main chain
+2018-Sep-16 23:24:11.458618 INFO    [Core] Block 52400 (592b4b98c63fb23da6777c131ed3b8c43d3a43ea4126115ec0cd0ff4491976ee) added to main chain
+2018-Sep-16 23:24:13.588029 INFO    [Core] Block 52500 (ee4e667773989f71af33a2d0920d6a889201c96689fb2d7ab2f7086878ef4b73) added to main chain
+2018-Sep-16 23:24:15.722486 INFO    [Core] Block 52600 (b75dba9620abaafe6fe7c15b47b534b47f78e1eeda37d6f56559a9f38b6e3452) added to main chain
+2018-Sep-16 23:24:17.939890 INFO    [Core] Block 52700 (55462afa0f5b9b5cbf307ca3f517970950bac17eaf3fd77705a518cb6b49d4dd) added to main chain
+2018-Sep-16 23:24:19.919131 INFO    [Core] Block 52800 (906e039e3f1c8b869dd9e6ee3b25defd1b751402f472611f9bbf877f356be802) added to main chain
+2018-Sep-16 23:24:22.049076 INFO    [Core] Block 52900 (ce247612be2e431ff49f2e02218907e63e4bcb5245bdaaf8225c50c42b6fa2da) added to main chain
+2018-Sep-16 23:24:24.045722 INFO    [Core] Block 53000 (4640c7fbc2c626d30bcf4e287bed51b18e0aced93c1d9d930811cafbe67045c8) added to main chain
+2018-Sep-16 23:24:26.218173 INFO    [Core] Block 53100 (ae93e11be144ea895aad52a10ab098ce728953b3e7d5a1f1b20f68c65cef0798) added to main chain
+2018-Sep-16 23:24:27.268396 INFO    [protocol] New Top Block Detected: 74753
+2018-Sep-16 23:24:28.164877 INFO    [Core] Block 53200 (fbeecfd799690345408c8a14c65c944771306f6b44c40fe42bfa72ffb58fd6db) added to main chain
+2018-Sep-16 23:24:30.186648 INFO    [Core] Block 53300 (8a47ddbdc69d2d9fdb2947add532091f9612765a7eae6d05e615998667ec4e1a) added to main chain
+2018-Sep-16 23:24:30.482503 INFO    [protocol] New Top Block Detected: 74754
+2018-Sep-16 23:24:32.284808 INFO    [Core] Block 53400 (e787e6aa3562832b65e0edd770dcd67524ab8d6d7cd258b194dd4bf057d8e86e) added to main chain
+2018-Sep-16 23:24:34.452392 INFO    [Core] Block 53500 (70bcf7297fcc59c6fb511535789ca5eb88dffa7a71cd18d128c681f8305837d5) added to main chain
+2018-Sep-16 23:24:36.524436 INFO    [Core] Block 53600 (3ffe903b0ad04186f26fe9ee90010b28ddc565ada140f740d12f7a5570990f7e) added to main chain
+2018-Sep-16 23:24:38.515469 INFO    [Core] Block 53700 (5fe7a04021116473e2029af753403221f7be53403eaac86579611ff9bd12fb5f) added to main chain
+2018-Sep-16 23:24:40.780323 INFO    [Core] Block 53800 (00d3834208ded750bcd5fb4b5f78bacccbaeed5cecf6ea90b849adae0e8b1ee2) added to main chain
+2018-Sep-16 23:24:42.872312 INFO    [Core] Block 53900 (21cbf7170ea2d73c2afb931d58d6a284b19fb3937a53670066750deff9aba1ad) added to main chain
+2018-Sep-16 23:24:45.079305 INFO    [Core] Block 54000 (09374c3d64b0e9c5577b24ce790d5605ad9eedf20b79c853dc22c145ca9db5ba) added to main chain
+2018-Sep-16 23:24:47.152906 INFO    [Core] Block 54100 (877dca0b8533330cd4bbf89f33fe56033df44f6db405d96f5aceb7e333662bcf) added to main chain
+2018-Sep-16 23:24:49.362087 INFO    [Core] Block 54200 (b48d80195c06387babc0b5717804df9d512de09ce651131c94af096b5b6a4f75) added to main chain
+2018-Sep-16 23:24:51.728170 INFO    [Core] Block 54300 (9f81c5af1506cf61b20c15a7b76ab7c97789bdda45e052d7838979fc420024cf) added to main chain
+2018-Sep-16 23:24:53.843248 INFO    [Core] Block 54400 (fd781cab0c87b7fe344d160850d1afd87779609337c0753547b16cef15225b90) added to main chain
+2018-Sep-16 23:24:56.315471 INFO    [Core] Block 54500 (fa03b8892682df78d28b7136f3c8d3f661ea998288806e7885384584b0f70a72) added to main chain
+2018-Sep-16 23:24:58.463177 INFO    [Core] Block 54600 (5128987fb868a9fb2de3ce14195d3dfea54f25d9c260039511def96b2445312c) added to main chain
+2018-Sep-16 23:25:00.739891 INFO    [Core] Block 54700 (a1b62ad4dacf36301ec2aaf4b567744c4ff18b8e77c1fbc98b035d3bb1a9ab20) added to main chain
+2018-Sep-16 23:25:03.041264 INFO    [Core] Block 54800 (4b72737869fe80eca53b073656c7f99728ca922a196c5490eeefb78ee7657b57) added to main chain
+2018-Sep-16 23:25:05.122079 INFO    [Core] Block 54900 (220907e7b766d3ce7728438b829e6054e162d82448fa9ab24a40e0fb9571298e) added to main chain
+2018-Sep-16 23:25:07.164980 INFO    [Core] Block 55000 (324412e10da9677f77327eb565f4803038b461af0740d7821f1be57cd3f46745) added to main chain
+2018-Sep-16 23:25:09.430062 INFO    [Core] Block 55100 (54958a4853c24070e82dd64734255cac9ffcde7b30fd9989d3a78a8bfc0ceb1d) added to main chain
+2018-Sep-16 23:25:11.763048 INFO    [Core] Block 55200 (caaf5473f4cffdf37e6ab56dc2a456da0e39f3476ba7efb224d62b4b8e6cd82c) added to main chain
+2018-Sep-16 23:25:12.317676 INFO    [protocol] New Top Block Detected: 74755
+2018-Sep-16 23:25:13.819191 INFO    [Core] Block 55300 (085b6e10e286bdc789b5708c79ac769bacb2b9822c2030376320699d358ecb16) added to main chain
+2018-Sep-16 23:25:15.802511 INFO    [protocol] New Top Block Detected: 74756
+2018-Sep-16 23:25:15.997540 INFO    [Core] Block 55400 (e3c8b61a0253f17b00b94c44bd31574236c8a63b9afac7df4ec0f9a4d3f3a38a) added to main chain
+2018-Sep-16 23:25:18.208560 INFO    [Core] Block 55500 (e0dd108bec44d87b60990e0f3e52014503f35b8f88fd03f0bce4c7ca763ac329) added to main chain
+2018-Sep-16 23:25:20.415761 INFO    [Core] Block 55600 (a7e69b0aa35c2fb714129a99e4360a4e525583c4b253e9afe31b10562d641b69) added to main chain
+2018-Sep-16 23:25:22.429066 INFO    [Core] Block 55700 (fbc66cfd41622bd7b4451fe7cf5504c395e918ed9a86a026cbecd749b610d299) added to main chain
+2018-Sep-16 23:25:24.796187 INFO    [Core] Block 55800 (deda076a6a32466db7f0ba25b824af5bc8daa4ea4bccdfeb80487a39e4e7129a) added to main chain
+2018-Sep-16 23:25:26.851771 INFO    [Core] Block 55900 (d7c750372057d3473cb47155d907541cc78b0021d09551319c53178a9e726a4c) added to main chain
+2018-Sep-16 23:25:28.999987 INFO    [Core] Block 56000 (848df3a3d8f8fcd8fcefae99977d156560f51b8ce5cdd14950606fbe1cdc99b8) added to main chain
+2018-Sep-16 23:25:29.485532 INFO    [protocol] New Top Block Detected: 74757
+2018-Sep-16 23:25:31.046255 INFO    [Core] Block 56100 (3f22b43d9f6b9fb6a0ac47aa4b1d7faa17d7769c013509e459d6019b78dca424) added to main chain
+2018-Sep-16 23:25:33.136397 INFO    [Core] Block 56200 (d11c3c887cdae8969bd9357db5d532afc0f98dfd2f1fc20feb53a1a051a320bb) added to main chain
+2018-Sep-16 23:25:35.458211 INFO    [Core] Block 56300 (13a1f9fedc545170c6606786fe05fb34f5db4181c1cd5958eef8a49db23942d0) added to main chain
+2018-Sep-16 23:25:37.633104 INFO    [Core] Block 56400 (13a413a77cb398bd45d5f6d759bf159d147b47803d133ec208ca256e6185371b) added to main chain
+2018-Sep-16 23:25:39.722249 INFO    [Core] Block 56500 (21569495b9db4c39045309d975b8f8025a727a61c12acebb50d18e38733d41cf) added to main chain
+2018-Sep-16 23:25:41.834030 INFO    [Core] Block 56600 (e9d16533ca5ff459f903b4a728074ffb43c2f1019c7ec43db75bfb7f695dbe23) added to main chain
+2018-Sep-16 23:25:43.844037 INFO    [Core] Block 56700 (eece88039d451d15644258a8e08447fc11201e8b337181198f73da8338ea74dc) added to main chain
+2018-Sep-16 23:25:45.977328 INFO    [Core] Block 56800 (c60efb4ee3f1a688e0be1054ee52f7322ca0447d01592e5ecfadaa1f2c88f12a) added to main chain
+2018-Sep-16 23:25:47.967550 INFO    [Core] Block 56900 (a84e2784133667efdc450035af460574442a3b8064ce7f6e2976362fe1e157df) added to main chain
+2018-Sep-16 23:25:50.105807 INFO    [Core] Block 57000 (857cf68ea5bed1143641e902e56dcf5d34f62c1667b1ab5d7277e0bedec41653) added to main chain
+2018-Sep-16 23:25:52.497848 INFO    [Core] Block 57100 (1ad46d373b872dea9edea387489a7ad8cac23174e29b0f731d301318653d37bd) added to main chain
+2018-Sep-16 23:25:54.519836 INFO    [Core] Block 57200 (61a93437a705c249cea29dfe4d10d2ed2ca33d4737a8683f93c56cfd1b9b22f3) added to main chain
+2018-Sep-16 23:25:56.436189 INFO    [Core] Block 57300 (ec3acab5e47a1c449beae342537ef3bbbb62652fa0dc77420d151cdade65dbb4) added to main chain
+2018-Sep-16 23:25:58.358955 INFO    [Core] Block 57400 (589b99d27471e28ecdb492bfbe9850acf36a80a83c701241d79c785a09ab22b5) added to main chain
+2018-Sep-16 23:26:00.230244 INFO    [Core] Block 57500 (1827a5234258e6232f31967bd64edab39f789071afae766f0e1dce288387cac5) added to main chain
+2018-Sep-16 23:26:02.219026 INFO    [Core] Block 57600 (47ad53866e424cf8b9056a871623664eb02a0eadcf57299a78929959e23e43d7) added to main chain
+2018-Sep-16 23:26:04.543552 INFO    [Core] Block 57700 (7afb109efe4e8020434165b287f2dc64f8139c24fcb4b4902501bec9e10a7dcf) added to main chain
+2018-Sep-16 23:26:06.994768 INFO    [Core] Block 57800 (9f5fd3c15e47b35e3df082c73a1983b73c56faf0f2a12f7a42a380dbd2b3cba6) added to main chain
+2018-Sep-16 23:26:09.202734 INFO    [Core] Block 57900 (59e2c39d497de97997b01449eeb863bbdd56c5cb84221ee8f2cc4ebd29c96dfb) added to main chain
+2018-Sep-16 23:26:11.536410 INFO    [Core] Block 58000 (9db35bdc34176599791d70fca252d98771ae3ad425148148a48a1349cd29947d) added to main chain
+2018-Sep-16 23:26:13.798019 INFO    [Core] Block 58100 (4fcc3822b4b4b47b2e7285c09ec716dfcc6353aaed2ab6ecc27d454ff9dd8b06) added to main chain
+2018-Sep-16 23:26:15.860702 INFO    [Core] Block 58200 (1e96595dd5e6870a6347feff1e392bae811e4e4aa7a494ccab4b6aec3963a870) added to main chain
+2018-Sep-16 23:26:17.863218 INFO    [Core] Block 58300 (008329765743acdc3db4f626b6c8fe189440b8374beda23115cd3db71f897a95) added to main chain
+2018-Sep-16 23:26:19.880356 INFO    [Core] Block 58400 (3f97214fa1d572665da826cccf917c22b4c7168949c31d15d17e29aaa5050af3) added to main chain
+2018-Sep-16 23:26:22.082044 INFO    [Core] Block 58500 (f950c469c360e40378a51fc73038cff41da8193cd6ff37ea913aa181ec7be9a3) added to main chain
+2018-Sep-16 23:26:24.158671 INFO    [Core] Block 58600 (21a4ec622550ad205ac36eac10a818a26b72a6af63b410f924868056def0a2bb) added to main chain
+2018-Sep-16 23:26:26.189753 INFO    [Core] Block 58700 (9f9874281c86f46e735c4384573ce1cdfc055ca1148f3a87d15d2fdca66bc002) added to main chain
+2018-Sep-16 23:26:28.345340 INFO    [Core] Block 58800 (387b8360d0790d70f0474cf0ca9a289a999ed311a95df542cfb9d02cddeb0f31) added to main chain
+2018-Sep-16 23:26:30.477990 INFO    [Core] Block 58900 (859b13edf95a442d8fda9a86f2d2a0b770161b61e16dc1eb7ebdc6495721b826) added to main chain
+2018-Sep-16 23:26:32.636775 INFO    [Core] Block 59000 (762399a385e3095099ad1a137e32424598d37c7b120c7e99feb69ee5c5c4d627) added to main chain
+2018-Sep-16 23:26:35.359471 INFO    [Core] Block 59100 (8b793fc9ea1bec50988ce3af99c2de9f7479e43603bfcf611d8c439579f0795f) added to main chain
+2018-Sep-16 23:26:37.499390 INFO    [Core] Block 59200 (d16d5cff15f2a67ada3810928d98d666a2d396783315739d11ae7c21a9f65b99) added to main chain
+2018-Sep-16 23:26:39.549761 INFO    [Core] Block 59300 (94d048f2eededd338dd116bfd7d00cd562853b67120d0644012413d288955112) added to main chain
+2018-Sep-16 23:26:41.665913 INFO    [Core] Block 59400 (7be5cb01ff70d51ef00c28d9abed2d18be4542e64fb5dd2f808446d6404b3f7b) added to main chain
+2018-Sep-16 23:26:43.666973 INFO    [Core] Block 59500 (6ab4f4585d274f0add9117e37fb3c822ee5dfed4697319e85bc7350a6a2d4ce1) added to main chain
+2018-Sep-16 23:26:45.768515 INFO    [Core] Block 59600 (499bea0eba9ab30a8ae62bbe6e23bf418b338003e58b7174395840dc5a95c092) added to main chain
+2018-Sep-16 23:26:47.819706 INFO    [Core] Block 59700 (d054e7b15ff0c8bde5ae6f914506b482419f12a1d7471c8197a24c753f60272e) added to main chain
+2018-Sep-16 23:26:49.907344 INFO    [Core] Block 59800 (a7885952a3e2628aefbbf21ccffd613ec3b102a93488b37ccae0a5504eb0518d) added to main chain
+2018-Sep-16 23:26:51.953837 INFO    [Core] Block 59900 (2ea17bc94280b0f239cbafc76e3595e64457064a2710dd7d9cdda4aa2e5c280f) added to main chain
+2018-Sep-16 23:26:53.992402 INFO    [Core] Block 60000 (88f7eebd9f0c05b980d5de3e301581b4acd9cb471704dc2ba1771a968d840b62) added to main chain
+2018-Sep-16 23:26:56.111459 INFO    [Core] Block 60100 (3c9ec67088257f3b24ecc42d27fedc889313cb7913b644c0bbb6b1e2d698f412) added to main chain
+2018-Sep-16 23:26:58.228650 INFO    [Core] Block 60200 (dd8130c05b31bb3e29f39bbd2752cc3a600131b60fc87170bd772888ca6fa013) added to main chain
+2018-Sep-16 23:27:00.347134 INFO    [Core] Block 60300 (1823aafae39d77cfb4d8db2ce963d85cd9eed75b537d9fdff5933d47df38fc52) added to main chain
+2018-Sep-16 23:27:02.352802 INFO    [Core] Block 60400 (9c4860270a40da2bcd53f94f5aaf222b5374c3a74fef8b386f1005abce146f60) added to main chain
+2018-Sep-16 23:27:04.117953 INFO    [Core] Block 60500 (3bd3a545106598d98051d82430827bd50b078823165fe8502842f1451ba6e6e7) added to main chain
+2018-Sep-16 23:27:06.064679 INFO    [Core] Block 60600 (ba481b37f2f53e92ac21a8a16ac3ea8003cf924152d2baea8bdcde25ec7bd7a2) added to main chain
+2018-Sep-16 23:27:08.014582 INFO    [Core] Block 60700 (9aa095199c6caceb8e822024e6c4df622e0be7b15bef04b88b0c9c4542663603) added to main chain
+2018-Sep-16 23:27:09.822444 INFO    [Core] Block 60800 (8b49e1dba7b5c82b2925567c4530a95b941405a5d1392b01f1363ba66b08a201) added to main chain
+2018-Sep-16 23:27:11.683091 INFO    [Core] Block 60900 (4fdde7a6fe53ff3229c8a454c0394e72afb59998139d0189a80cc4b7d9ed363b) added to main chain
+2018-Sep-16 23:27:13.497106 INFO    [Core] Block 61000 (3d4af7bddd2bf93f2d2a9025fd9a7f89285fccb67ef813de8d9fc2f3ad79c8dd) added to main chain
+2018-Sep-16 23:27:15.410914 INFO    [Core] Block 61100 (467670116da6c7c127273ce8bb8394e081b13eb1887e3b61c0855b7285130695) added to main chain
+2018-Sep-16 23:27:17.360434 INFO    [Core] Block 61200 (203a91127eac7c238fc0235002bd3cd6a2fdd3d09ba420ad01773a02aee49d56) added to main chain
+2018-Sep-16 23:27:19.266116 INFO    [Core] Block 61300 (483745e03349c479c948312dd7ba29195c5090865b685e3da7b01a960dead06a) added to main chain
+2018-Sep-16 23:27:21.225232 INFO    [Core] Block 61400 (c0320564d6a6eb73a2de15f330d29bd4acf6b0f8974f665d2198e25393f772ea) added to main chain
+2018-Sep-16 23:27:23.061953 INFO    [Core] Block 61500 (e080dee85b63e4da55c82b87f582d0a7d4e8031324f31aa8ee4f8e830132cce7) added to main chain
+2018-Sep-16 23:27:25.013684 INFO    [Core] Block 61600 (ec8712cb477deba7897e8f2416bdecb1d97b6573ec79bb77cd12dacec90294c9) added to main chain
+2018-Sep-16 23:27:26.961337 INFO    [Core] Block 61700 (db6efa2ecf8d710936200b2bb0fc9e414a1e631195bad8fa8d9e53d581cf9b4b) added to main chain
+2018-Sep-16 23:27:28.890552 INFO    [Core] Block 61800 (330acffc26769b72bc83b7a07f927492a350520d16b07f3556b2a8c264622253) added to main chain
+2018-Sep-16 23:27:30.886498 INFO    [Core] Block 61900 (75909000d97e659cf9e391fa68644dd2bcbc48110e4e0635fd900d12d21b57ee) added to main chain
+2018-Sep-16 23:27:32.786286 INFO    [Core] Block 62000 (747fcc1c877e9a5b1109d7289d8b3837dd37df3e254035e6e6041bf7881a3e85) added to main chain
+2018-Sep-16 23:27:34.615377 INFO    [Core] Block 62100 (0be8a5c3383146770769f463278192e041ba76dea06e98cb08c647c8908c1173) added to main chain
+2018-Sep-16 23:27:36.544571 INFO    [Core] Block 62200 (3fa0a12172dd2108c97fa950bc808394ff25d64ab853b34aac0247927e33369c) added to main chain
+2018-Sep-16 23:27:38.488747 INFO    [Core] Block 62300 (c06f2c50fe9ba7d36aeb81beadf58b8dd34f16844a1b78738d23fc5c7b1a59bd) added to main chain
+2018-Sep-16 23:27:40.293256 INFO    [Core] Block 62400 (b5c7224a2d9c719f60fba8c4d106eb3cabb8cff8793916751c37b189a5910270) added to main chain
+2018-Sep-16 23:27:42.122179 INFO    [Core] Block 62500 (71aaf2ab3c6ba5a881ddce3913385225a799631f701c7dc840e20dd544b023d5) added to main chain
+2018-Sep-16 23:27:44.054072 INFO    [Core] Block 62600 (1bfa716ad37736482d436b5a10e46aa487ea0ffe414a57aad768e148a4f1e408) added to main chain
+2018-Sep-16 23:27:45.921139 INFO    [Core] Block 62700 (16530790e2f535834ed5ad92909b60e2d11e75d6c8e46f1a8a39bc6eb25c16ee) added to main chain
+2018-Sep-16 23:27:47.879213 INFO    [Core] Block 62800 (b3a7e6b140972c9648de8ad9b3c71dac6ab09b9f82159b078b83d13cd785f461) added to main chain
+2018-Sep-16 23:27:49.679150 INFO    [Core] Block 62900 (1d7c249865e5a9deac7510e17fbeaa419abdb878bb9afcf364b3a1fab1cd5329) added to main chain
+2018-Sep-16 23:27:51.672849 INFO    [Core] Block 63000 (26fde358444082f52f611158b4d049d26bb6cb30a5d89a2fa71aca0d524f652b) added to main chain
+2018-Sep-16 23:27:53.563266 INFO    [Core] Block 63100 (7897014d81505193df209bd9b4169ac026f8aaae9561301e2ab35049d073643f) added to main chain
+2018-Sep-16 23:27:55.325452 INFO    [Core] Block 63200 (e90d32baefe0fff92f0fd27cd7eae7317746b7267fb7400932e6c187554c1e4c) added to main chain
+2018-Sep-16 23:27:57.159649 INFO    [Core] Block 63300 (a7732361adf0a680784c8bbac0701a51617dbeb02a109668782b9b8fb465be13) added to main chain
+2018-Sep-16 23:27:58.973106 INFO    [Core] Block 63400 (a8cebecba7e99cf7cb4719073b061ccb70a9fc697fdabee74f7d41fe2b509ad4) added to main chain
+2018-Sep-16 23:28:00.945163 INFO    [Core] Block 63500 (3f284d901b9f9d3d6dc2be16b764fbf88238b94ce6da8ba22e535e055d6a6754) added to main chain
+2018-Sep-16 23:28:03.212431 INFO    [Core] Block 63600 (0a2cc220eb37a2acc18512244aafb630a91082e7da8240ff9ff6311af19c174a) added to main chain
+2018-Sep-16 23:28:05.112297 INFO    [Core] Block 63700 (3670e96254ac08ccf5aacd9ec3df47274b2ff89ebc86b85421addeed6cfaba9b) added to main chain
+2018-Sep-16 23:28:06.946675 INFO    [Core] Block 63800 (dabab19a435517278985d2954d04a12045e64925f1d0a5290844b8c1344e60b1) added to main chain
+2018-Sep-16 23:28:09.102804 INFO    [Core] Block 63900 (a3f4e5fd8735f227c5f59f1cedf8d447a2fff8a9a088597e6c3f0f5d7d8f2374) added to main chain
+2018-Sep-16 23:28:11.173872 INFO    [Core] Block 64000 (b7d7cd4ad77879574dcc06435468a3502062004236a8a3bcbdb2c7fe32e527df) added to main chain
+2018-Sep-16 23:28:13.406933 INFO    [Core] Block 64100 (57abfb64c07df4d36d421d50d151af405aa9ca7e442ae4b3a58d9edc93bba58e) added to main chain
+2018-Sep-16 23:28:14.360896 INFO    [protocol] New Top Block Detected: 74758
+2018-Sep-16 23:28:15.285177 INFO    [Core] Block 64200 (10290a13c75cc7f4e1d2400f6d9169677d73a251fd903adedc8cb09c607c2941) added to main chain
+2018-Sep-16 23:28:17.104516 INFO    [Core] Block 64300 (db195c7bb78fbf5c25a7547a44a19fc55fd66ea37127995408b9d93617d36876) added to main chain
+2018-Sep-16 23:28:19.109430 INFO    [Core] Block 64400 (45e40eb488018fec3a3d031f38689b6a19657cb717c99e8d1d398c3e31526374) added to main chain
+2018-Sep-16 23:28:20.977577 INFO    [Core] Block 64500 (f4e86050ce825d5bc125a1eb6fdc6e53acb22475ce867c21b9ed22b83161b3a2) added to main chain
+2018-Sep-16 23:28:22.955444 INFO    [Core] Block 64600 (99c73cd8f1051d98ffc3eb258b0ba0b1f9bb2a54de9523aa1ce8fec9a78b0e61) added to main chain
+2018-Sep-16 23:28:24.915293 INFO    [Core] Block 64700 (1686c54e113852cfd42a6a122a37c4703ac330d9da6d2996825af8c12dd70a04) added to main chain
+2018-Sep-16 23:28:26.700886 INFO    [Core] Block 64800 (a0fa87c76b0989756c937335ebd3e17102e34370b437b16966afad66a7e6183f) added to main chain
+2018-Sep-16 23:28:28.621483 INFO    [Core] Block 64900 (9b22da15dbb33665c50e2e8051356bf327ae060f7b4ec54abbf1258c3ba70f70) added to main chain
+2018-Sep-16 23:28:30.561868 INFO    [Core] Block 65000 (e44264ea7147878f23df187a3d9e517f6ac3c12d204a463b0f9c4a8d60cea51e) added to main chain
+2018-Sep-16 23:28:32.572499 INFO    [Core] Block 65100 (6a2331c2c25b6ccc5a4f4ad452db389c722f016f974832ba6d89b4c3d3095d90) added to main chain
+2018-Sep-16 23:28:34.567856 INFO    [Core] Block 65200 (21b9b501b7939653eee1edc25e4841cbd8989404fc0725e3a8b0da84377c4ff1) added to main chain
+2018-Sep-16 23:28:36.528494 INFO    [Core] Block 65300 (e518b5e2d32391ee96ece189235de5d62810163564e909e41489732407c0e215) added to main chain
+2018-Sep-16 23:28:38.349893 INFO    [Core] Block 65400 (da59294be26cef83a2e087dfbb5acbf0eab23c0d6972b1067345581f79feab11) added to main chain
+2018-Sep-16 23:28:40.252052 INFO    [Core] Block 65500 (37174eabfc9988593a4539112a8c2ac9ddff299cb938a6360622776f9743a78e) added to main chain
+2018-Sep-16 23:28:42.133905 INFO    [Core] Block 65600 (e3d5353743e5ff0bee023338c2ddcd7edc9378ba9c032394dda9d14fc5702d53) added to main chain
+2018-Sep-16 23:28:43.882450 INFO    [Core] Block 65700 (554e5fd930f09ac5f128f3863e9eb82c0588fec27902bdfaf2693f7f5f3ac077) added to main chain
+2018-Sep-16 23:28:45.706492 INFO    [Core] Block 65800 (11bfb5911d3ba54277b15112858ddb2f9441a1aeca8ab2b9d99fa8f7c3d01a86) added to main chain
+2018-Sep-16 23:28:47.562200 INFO    [Core] Block 65900 (842d23cb116a46f92e231214d61290dc8cb01b9af8193049e4cf97c18d04559e) added to main chain
+2018-Sep-16 23:28:49.462289 INFO    [Core] Block 66000 (37e95ababa3455fbeebb7e309a592eeb337a66f8619b5cdeb72c809ce69ba455) added to main chain
+2018-Sep-16 23:28:51.502435 INFO    [Core] Block 66100 (cb106764824aa1c0300988c47010b58b0fb92c67d0eb684e1a2af2148f15e0ed) added to main chain
+2018-Sep-16 23:28:52.679343 INFO    [protocol] New Top Block Detected: 74759
+2018-Sep-16 23:28:53.335770 INFO    [Core] Block 66200 (6502460c4acef93b536d4248be2d756ca91b6a8606876b554b60312ed1b16462) added to main chain
+2018-Sep-16 23:28:55.236391 INFO    [Core] Block 66300 (e23969799aa84a905f6111fd7bd8354ff4da471a3381ddd321ce80908cad0970) added to main chain
+2018-Sep-16 23:28:57.148316 INFO    [Core] Block 66400 (3737642c70c62fb79f1642be8f859dd3e8c648cda026b3202c17c8e5350524ab) added to main chain
+2018-Sep-16 23:28:58.921946 INFO    [Core] Block 66500 (57eea973bd37de896a09416fb71f013443de4a55b61e0af5a4670df264a55e96) added to main chain
+2018-Sep-16 23:29:00.796734 INFO    [Core] Block 66600 (e21f31cf75a131ff03006ee3d33e5065e4554c9c3c29f61857ed1283373ad3b3) added to main chain
+2018-Sep-16 23:29:01.874231 INFO    [protocol] New Top Block Detected: 74760
+2018-Sep-16 23:29:02.695676 INFO    [Core] Block 66700 (436faaec18befab5c7f10b57bd5e2c4c04bd3c3e56819e6f9d15b6822a9c898b) added to main chain
+2018-Sep-16 23:29:04.561135 INFO    [Core] Block 66800 (f94176c62a0c8a4f78be2850c52062d9e65cd6875c7647089a7b148bb434dea7) added to main chain
+2018-Sep-16 23:29:06.400927 INFO    [Core] Block 66900 (183aa629d8e9bdeb8bb0785793dd8d0d61985e48eb0b01776d7814a921d6bdd1) added to main chain
+2018-Sep-16 23:29:08.187102 INFO    [Core] Block 67000 (58b7c58af71c43f6dac53403dee155a2945fc89b6620144157d90b95f2bd1826) added to main chain
+2018-Sep-16 23:29:10.162572 INFO    [Core] Block 67100 (ccb5241bb4a34dbb03169de9f0ea3a79e72dfe7bacef8bc04cf089c3842e5a01) added to main chain
+2018-Sep-16 23:29:12.395828 INFO    [Core] Block 67200 (a5ef58829237e0823c6740f2cd8dd4a1a83ecb997139435b1a43fe4f6a9bc33e) added to main chain
+2018-Sep-16 23:29:14.475539 INFO    [Core] Block 67300 (fcd8ec02a948b50fb5d7c3852396707fbfea5847575d77fd08b9634bb57e2fa0) added to main chain
+2018-Sep-16 23:29:16.810292 INFO    [Core] Block 67400 (7349c8f396d30bea01b694dea74ebb13ca573ca0b00d349989ca541eae01016d) added to main chain
+2018-Sep-16 23:29:19.019542 INFO    [Core] Block 67500 (b9a6408c6a9b9f41dabe096e877996db549bcabd8cbcc2bd31f7460a62df7c4f) added to main chain
+2018-Sep-16 23:29:19.220091 INFO    [protocol] New Top Block Detected: 74761
+2018-Sep-16 23:29:21.033537 INFO    [Core] Block 67600 (febaa2d46fb1719bc65ef366dceca2b591a181e7363962bf834ca6d587fb9886) added to main chain
+2018-Sep-16 23:29:23.327403 INFO    [Core] Block 67700 (fd9abf32d0ba1322dbc10ce58d2e961c4860e9d0d8bbc8368bea3d3f735a48ef) added to main chain
+2018-Sep-16 23:29:25.570187 INFO    [Core] Block 67800 (b0f8746e9c8d7012d33169407d046a0875007b6c4cedf292b842fd352e5bc1b9) added to main chain
+2018-Sep-16 23:29:27.742846 INFO    [Core] Block 67900 (01aef920657cabe13beb064af8ece786a2408dac329fcac6dc76fc8ad1e1e729) added to main chain
+2018-Sep-16 23:29:29.679150 INFO    [Core] Block 68000 (4721133c25dafb90e08e8dc9371034c1a72d1d7af8d6b559bf6155bbb51993ad) added to main chain
+2018-Sep-16 23:29:31.667292 INFO    [Core] Block 68100 (64ebee2cf507aaf8f3f94d1b39c964c8a4debe9c530441756a0207930854c55f) added to main chain
+2018-Sep-16 23:29:33.683040 INFO    [Core] Block 68200 (41ab373221dc0f75061646b6d919aee13e64c4921e60db750dd7f0c356ac9335) added to main chain
+2018-Sep-16 23:29:35.765212 INFO    [Core] Block 68300 (b84f6cd3922d1309194e435f3c3d67692a224611ddee98b122772643795f7dc6) added to main chain
+2018-Sep-16 23:29:37.724698 INFO    [Core] Block 68400 (0ed6d397a35fe6659279a6cb055717372c1c688d8e8648c091635b57a47bd850) added to main chain
+2018-Sep-16 23:29:39.611316 INFO    [Core] Block 68500 (00ecdb2cc7ed63111741377bc6e0587071c023ca1d0b1bd91d15b2923850e278) added to main chain
+2018-Sep-16 23:29:41.583769 INFO    [Core] Block 68600 (78f8ab5a21b9ced02f481bbc8142791eebd405d9cb8dcd283218c63f15a9c9df) added to main chain
+2018-Sep-16 23:29:43.419167 INFO    [Core] Block 68700 (7a79ea613d26b50f38307c9034143afb50f05b1c5c93a0cf808674e76ea36efb) added to main chain
+2018-Sep-16 23:29:45.329872 INFO    [Core] Block 68800 (9ce3e81565babf1378d296cc5e85ffdf73228282a0b9bbace25ddd0a1db2fa76) added to main chain
+2018-Sep-16 23:29:47.151833 INFO    [Core] Block 68900 (7d4749b8471baf28cabcf80297858df8cfaae3bd9225f67647bd8026519d49f2) added to main chain
+2018-Sep-16 23:29:49.048661 INFO    [Core] Block 69000 (e9a5a7f3c99af57e40bb67ad07e0e73d256c3c07235fb4ad2b6cfb87c45583e5) added to main chain
+2018-Sep-16 23:29:50.791996 INFO    [Core] Block 69100 (3d4cf4bdb348f10a9241ab3dcb57ca1a229e690e4858d74e69b7383ea208fdfc) added to main chain
+2018-Sep-16 23:29:52.811648 INFO    [Core] Block 69200 (2797fdf955abca31869b35ed7e334bd96da9691cd7c3fcd0812112cf3f20b362) added to main chain
+2018-Sep-16 23:29:54.941969 INFO    [Core] Block 69300 (e961d61c945fcd97dd2d8501d9e309bfea18680dc1c4f06b0579f554aededad1) added to main chain
+2018-Sep-16 23:29:57.193606 INFO    [Core] Block 69400 (56b038a81175ea6b9aa0d131d00f0d3f3c7dd3d07d7c9e7b952f777e72cb4c90) added to main chain
+2018-Sep-16 23:29:59.404872 INFO    [Core] Block 69500 (a8a28b14721fc9db7ea07dc3f30473b9f19a8bbe6cd794b141199e7a43f3b481) added to main chain
+2018-Sep-16 23:30:01.770533 INFO    [Core] Block 69600 (be659c9de962035775f64ff0c7f147d12829b43d99c0244a3161fc53e3b31447) added to main chain
+2018-Sep-16 23:30:04.178963 INFO    [Core] Block 69700 (3508eaa3b38918d16deb19eeb235caff3e67d578dc7117cec488d8fc290919b5) added to main chain
+2018-Sep-16 23:30:06.597682 INFO    [Core] Block 69800 (664752fd4970426f0b1ce100c134a90f9e434221f7a8782885a61769ca9a9b65) added to main chain
+2018-Sep-16 23:30:08.777674 INFO    [Core] Block 69900 (d001eb7d1a45571dd3d9fb6589f5fdd4f1a1a226d0d394e8118946c5a18a37a2) added to main chain
+2018-Sep-16 23:30:11.009344 INFO    [Core] Block 70000 (8f716619210e98692f875f57e583d9b251dd9663b73a044b407f690d25626cdd) added to main chain
+2018-Sep-16 23:30:13.302354 INFO    [Core] Block 70100 (9d92109e1d7d47ee31aca1a18eb91e58ac77c4625833d323e8ef80076bdaf976) added to main chain
+2018-Sep-16 23:30:15.673304 INFO    [Core] Block 70200 (c08448fa24aad034182ed2c2408576e07ef010017296cb33dec44c9b5a556b3c) added to main chain
+2018-Sep-16 23:30:17.980207 INFO    [Core] Block 70300 (891262eceb6bc9b69daaf5b9b45a3e93783997a2ed2b7d87b62348dedab7fb3b) added to main chain
+2018-Sep-16 23:30:20.238312 INFO    [Core] Block 70400 (4781693f689a14baa683aade3b355b73076236a131568ceb5b07c4d0fc957624) added to main chain
+2018-Sep-16 23:30:22.527094 INFO    [Core] Block 70500 (b14618c013bb0755904794a1184a0d3c553164792cf7aff4ab1fbbc8f9f85d52) added to main chain
+2018-Sep-16 23:30:24.785316 INFO    [Core] Block 70600 (84ecf9fe9ce8581e627bf9988578efa8863e6df315dd9f8a3b88a04339038a38) added to main chain
+2018-Sep-16 23:30:26.931846 INFO    [Core] Block 70700 (bda6d02558f4ef1c0988942be661620456faf3c3fbb6624d1d65b3b92ab6a5d5) added to main chain
+2018-Sep-16 23:30:29.051674 INFO    [Core] Block 70800 (6dcb81cd0992fe9f9d485caf6b536be5b4d5ead8291d97b05f777b013874b4e5) added to main chain
+2018-Sep-16 23:30:31.336838 INFO    [Core] Block 70900 (cff0fbd305d76d162409c4f2a199026a4bfd0d3dc6899538786e54d797a0b24c) added to main chain
+2018-Sep-16 23:30:33.524756 INFO    [Core] Block 71000 (0a976176e0803e12e8bb35262fe993eea4a2c6ca451696d86db9a86c964066c2) added to main chain
+2018-Sep-16 23:30:36.118110 INFO    [Core] Block 71100 (e21f27cefa015f873418f217d433c58342824bb89e5ce220ee3c8e98b34e083f) added to main chain
+2018-Sep-16 23:30:38.375900 INFO    [Core] Block 71200 (6d33a1367c7a9f9e8a45333faf554c8cc63396bf50e2f34055d39c529512dc8f) added to main chain
+2018-Sep-16 23:30:40.498738 INFO    [Core] Block 71300 (888b66de3abe89e5578ba038663ea9f1c252dc48058dfe1d633dff25c2b0e31b) added to main chain
+2018-Sep-16 23:30:42.879894 INFO    [Core] Block 71400 (5876c31aeccd7ad15ef62507da08d613b09dad9f533dffd7909d73c9df82dba8) added to main chain
+2018-Sep-16 23:30:45.555227 INFO    [Core] Block 71500 (5be8c39881081b5ec3103a5166cca4c94968d2323a8b9fa6bf177757bd828157) added to main chain
+2018-Sep-16 23:30:47.714790 INFO    [Core] Block 71600 (93869b17b052eeb39d7806e6a1e31f7752294adc92c753bb5d45d9f52e51a253) added to main chain
+2018-Sep-16 23:30:50.025260 INFO    [Core] Block 71700 (84c17c49428ed8f5a897696ea34e70ba9cc6720387fce992c7d8f90cb6f6a581) added to main chain
+2018-Sep-16 23:30:52.500984 INFO    [Core] Block 71800 (4542742743e4a415be5d945a0467f6ec24e907336c074893a16c87f511c1709e) added to main chain
+2018-Sep-16 23:30:54.872383 INFO    [Core] Block 71900 (5f644e4b95de9cbcec72c28267245e13f46d98f82b3f119da8cb9b6df75c93d1) added to main chain
+2018-Sep-16 23:30:57.158263 INFO    [Core] Block 72000 (5457fadbb66c3fe54a59edbde843971be3f92651db52ddf0f9f3b16775d801a0) added to main chain
+2018-Sep-16 23:30:59.666196 INFO    [Core] Block 72100 (f7b6e2fe6a8f39f62229fda04b10e28e6a16846b04fa7411acb97611ff8d739b) added to main chain
+2018-Sep-16 23:31:01.909081 INFO    [Core] Block 72200 (8530eb356aa3cc86209c06d01fdc6b92e57838f8670334a074f08bf18de879ba) added to main chain
+2018-Sep-16 23:31:04.645787 INFO    [Core] Block 72300 (bec0a2f2398d1613f33e5ef6634a4d42ba6a9c659af60a76b029081cc2b07763) added to main chain
+2018-Sep-16 23:31:06.799694 INFO    [Core] Block 72400 (e243bc90c3191e262a602e6faf0e4540c53b99ad974141ca90f3d2f03465b83f) added to main chain
+2018-Sep-16 23:31:09.007809 INFO    [Core] Block 72500 (563fb7810cc87a24b6ad7e44b6ce6ab77ce305873f68a724b64316a2f534ec31) added to main chain
+2018-Sep-16 23:31:11.459318 INFO    [Core] Block 72600 (5e1e707397168a02723271093936ce29c2e81d3626dd612c5215a8d580965bb2) added to main chain
+2018-Sep-16 23:31:14.462079 INFO    [Core] Block 72700 (42860710357c1d7a0b42c0c228f325b69fbecd0180c9ca90a0fe254d442de559) added to main chain
+2018-Sep-16 23:31:17.082186 INFO    [Core] Block 72800 (72ea50fcb21079082c353799fe262fd9bedaa6369a256fd0055bed1caa5cd19a) added to main chain
+2018-Sep-16 23:31:19.772667 INFO    [Core] Block 72900 (ec4f588aaab828dd2410dfce86734aee73dbd7e44a20e6b32e685e0b8281b7f4) added to main chain
+2018-Sep-16 23:31:22.362402 INFO    [Core] Block 73000 (8333b262be5cf8425dfe5dd794b7d47ce4199a7d96c206bb2ed8b872645fe737) added to main chain
+2018-Sep-16 23:31:24.601753 INFO    [Core] Block 73100 (d225cb7f0bc96fda224b5e03b17e0c5b4ef43da17c35ee035a539c7380ea4346) added to main chain
+2018-Sep-16 23:31:26.798487 INFO    [Core] Block 73200 (f46a7b3e9929ec45af1d26bf67fa4d4c236e8bb4e49a41ad299d6d431bc7e874) added to main chain
+2018-Sep-16 23:31:29.150586 INFO    [Core] Block 73300 (a93996c82ddffa7f2442ea20c42e2a69cf065c535809a374ba17ad10c3c148a3) added to main chain
+2018-Sep-16 23:31:31.565788 INFO    [Core] Block 73400 (9ae723163befadaee86c3ac9634a2b510e59ee05d7019fc9352c464a31a2d18a) added to main chain
+2018-Sep-16 23:31:34.023137 INFO    [Core] Block 73500 (79df66cbc8a94e8f5c3ab91797ef80f33810ae493658be815808817e09d3e34c) added to main chain
+2018-Sep-16 23:31:36.534982 INFO    [Core] Block 73600 (eb448b076932270a83968418ee1c8f285168ca40ffe791a52675857137bc7adc) added to main chain
+2018-Sep-16 23:31:38.929114 INFO    [Core] Block 73700 (18fd0b42af0f1e7a6971e3d374b02dba9932aed101085c4d22d3fdde5ffa0d02) added to main chain
+2018-Sep-16 23:31:41.271745 INFO    [Core] Block 73800 (67bcada6002a2b5752ba8c24f489b75511f4f5a36a4245f6ea0ce3c330d1db71) added to main chain
+2018-Sep-16 23:31:43.594096 INFO    [Core] Block 73900 (ec7cc12ab619f239b4c263fe8ade958d8da0aca8739aee073a700d1131049dfb) added to main chain
+2018-Sep-16 23:31:45.831903 INFO    [Core] Block 74000 (15b90226e7321ccc5badada7a1a74d6fd8e01648f47ce9f359f46d684d09e696) added to main chain
+2018-Sep-16 23:31:48.209767 INFO    [Core] Block 74100 (146e95b6f6bdb51fb32fd5cfdcdf6853d4546b4c07aec7d98118e5f1bda59cb7) added to main chain
+2018-Sep-16 23:31:50.470839 INFO    [Core] Block 74200 (48e1d66987c8377070682a7f3112d99acf14573e43bd06fbb94ad5e236a6d0cf) added to main chain
+2018-Sep-16 23:31:52.913022 INFO    [Core] Block 74300 (289be91da12071c1cc34d86eddd028cfc99ca8648ce2cf8dce3a4495a708c591) added to main chain
+2018-Sep-16 23:31:54.944036 INFO    [Core] Block 74400 (30e57810f1883254cddbed7471abb16acef644e782c71bf1724813b6a1b3495b) added to main chain
+2018-Sep-16 23:31:57.030250 INFO    [Core] Block 74500 (e6e36611b63e7d4e324b750f9248940cdd8580f495c5208f9785434f218fe719) added to main chain
+2018-Sep-16 23:31:59.335913 INFO    [Core] Block 74600 (5312c6b44f8b27fcc26170a1ec2f2b2e67d5e8f92b8a17bced7967b54d0e9af3) added to main chain
+2018-Sep-16 23:32:01.644474 INFO    [Core] Block 74700 (9ef74061cced44494c314965093cc8e29b5ca824e42bf3143953d13c934b474d) added to main chain
+2018-Sep-16 23:32:02.835714 INFO    [protocol] [89.208.249.254:20634 OUT] Successfully synchronized with the network.
+2018-Sep-16 23:32:02.835810 INFO    [protocol] 
+2018-Sep-16 23:32:02.835867 INFO    [protocol] ===[ info ]=============================
+2018-Sep-16 23:32:02.835907 INFO    [protocol]  Always exit LatinCashd and Simplewallet with the "exit" command to preserve your chain and wallet data.
+2018-Sep-16 23:32:02.835968 INFO    [protocol]  Use the "help" command to see a list of available commands.
+2018-Sep-16 23:32:02.836027 INFO    [protocol]  Use the "export_keys" command in Simplewallet to display your keys for restoring a corrupted wallet.
+2018-Sep-16 23:32:02.836091 INFO    [protocol]  If you need more assistance, visit the Telegram of the LatinCash. 
+2018-Sep-16 23:32:02.836139 INFO    [protocol] ===================================================
+2018-Sep-16 23:32:02.836139 INFO    [protocol] 
+2018-Sep-16 23:33:01.150807 INFO    [node_server] 
+2018-Sep-16 23:33:01.150807 INFO    [node_server] Peerlist white:
+2018-Sep-16 23:33:01.150807 INFO    [node_server] 7dc0d52c01b61523	89.208.249.254:20634 	last_seen: d0.h00.m00.s39
+639a5ae350a4a94a	35.237.154.100:20634 	last_seen: d0.h00.m00.s39
+553e1e5f11045c4	149.56.14.8:20634 	last_seen: d0.h00.m00.s39
+8e0927f1bb540489	128.199.190.70:20634 	last_seen: d0.h00.m00.s39
+
+2018-Sep-16 23:33:01.150807 INFO    [node_server] Peerlist gray:
+2018-Sep-16 23:33:01.150807 INFO    [node_server] 828353235ce766fb	31.59.70.69:20634 	last_seen: d2.h02.m14.s37
+637e30b6ec55a745	92.191.151.101:20634 	last_seen: d2.h07.m31.s36
+5fbd3bd1ca783967	179.83.150.35:20634 	last_seen: d2.h10.m50.s28
+828353235ce766fb	31.59.70.111:20634 	last_seen: d9.h05.m18.s30
+5fbd3bd1ca783967	179.83.147.20:20634 	last_seen: d11.h02.m36.s10
+46891e717130dad1	95.38.43.167:20634 	last_seen: d11.h09.m58.s44
+828353235ce766fb	151.238.140.62:20634 	last_seen: d15.h14.m02.s58
+33adaab299f19778	73.78.255.66:20634 	last_seen: d17.h00.m33.s52
+58104dfc9000a16e	89.216.161.33:20634 	last_seen: d19.h00.m12.s45
+46891e717130dad1	95.38.41.223:20634 	last_seen: d19.h05.m34.s53
+5fbd3bd1ca783967	179.83.74.232:20634 	last_seen: d20.h02.m06.s20
+46891e717130dad1	95.38.45.193:20634 	last_seen: d23.h04.m26.s31
+eb6103c7e6630bb1	2.180.33.250:20634 	last_seen: d23.h06.m47.s50
+698cb843870b674b	179.105.173.191:20634 	last_seen: d24.h03.m07.s37
+3d01a82b67786624	173.212.198.61:20634 	last_seen: d27.h12.m28.s36
+56124c8803594d3e	93.91.118.9:20634 	last_seen: d32.h15.m10.s22
+f4d576dde2d71874	78.85.136.117:20634 	last_seen: d34.h12.m33.s23
+2c66b5643cd23e96	95.139.195.113:20634 	last_seen: d35.h06.m07.s12
+291968e8b6893824	5.29.185.61:20634 	last_seen: d38.h00.m22.s39
+8f3699a35383a522	76.27.70.225:20634 	last_seen: d39.h23.m40.s55
+b21509c5378837ea	85.166.44.68:20634 	last_seen: d40.h09.m44.s06
+3849be7422234e1c	82.6.90.130:20634 	last_seen: d41.h02.m19.s11
+ba0ff628fa443903	178.205.64.59:20634 	last_seen: d41.h03.m55.s30
+2047cabb33ad97d	118.184.219.118:20634 	last_seen: d42.h13.m36.s25
+b65aae5750496abd	179.83.70.152:20634 	last_seen: d43.h09.m09.s42
+4d745309effcd742	182.65.55.47:20634 	last_seen: d43.h13.m58.s19
+4d745309effcd742	182.65.253.224:20634 	last_seen: d43.h18.m23.s15
+2c66b5643cd23e96	95.139.255.192:20634 	last_seen: d44.h03.m47.s28
+669fdeb0fab720c6	178.206.76.110:20634 	last_seen: d44.h05.m37.s29
+b65aae5750496abd	179.83.80.51:20634 	last_seen: d47.h00.m49.s50
+f753ce3861f358c8	95.216.20.83:20634 	last_seen: d47.h20.m57.s42
+b65aae5750496abd	179.83.159.168:20634 	last_seen: d49.h04.m22.s22
+2c66b5643cd23e96	94.28.230.120:20634 	last_seen: d51.h00.m31.s28
+86d3934797f894a4	209.97.187.11:20634 	last_seen: d51.h16.m43.s28
+b65aae5750496abd	179.83.74.255:20634 	last_seen: d55.h02.m40.s09
+77348b41c91a6541	123.203.106.68:20634 	last_seen: d55.h11.m02.s35
+bdc47366697fea2d	118.41.151.138:20634 	last_seen: d56.h06.m47.s53
+452c02f8af6d7d39	112.149.156.143:20634 	last_seen: d56.h16.m37.s02
+52180cb778ad7911	45.63.16.80:20634 	last_seen: d58.h07.m41.s47
+b65aae5750496abd	179.83.148.176:20634 	last_seen: d58.h22.m20.s52
+8791fc4c4bc8e28	178.206.51.103:20634 	last_seen: d59.h05.m18.s37
+1bf671b832d988f5	178.206.25.245:20634 	last_seen: d60.h05.m30.s37
+8cc6a2c5a88c5e64	178.206.135.60:20634 	last_seen: d60.h18.m02.s26
+33950441a4fc1efc	83.27.249.130:20634 	last_seen: d61.h08.m02.s49
+f426020ed951fbc7	178.206.48.187:20634 	last_seen: d62.h17.m26.s48
+33950441a4fc1efc	83.27.46.226:20634 	last_seen: d63.h06.m34.s52
+554f59f604f95491	5.28.30.163:20634 	last_seen: d64.h01.m32.s12
+4bad89173431db78	188.225.66.123:20634 	last_seen: d64.h03.m33.s49
+b65aae5750496abd	179.83.74.179:20634 	last_seen: d64.h08.m13.s33
+94baa1a646b339b2	178.163.39.30:20634 	last_seen: d64.h08.m24.s51
+c0a1245b0e08e568	178.206.0.233:20634 	last_seen: d65.h02.m43.s20
+a09d58eeaffbf5b7	178.206.141.55:20634 	last_seen: d66.h03.m16.s49
+554f59f604f95491	5.28.29.102:20634 	last_seen: d66.h11.m29.s26
+bccd40e0f6bc834e	183.96.121.121:20634 	last_seen: d67.h00.m31.s41
+885301dec6176d5b	177.94.7.207:20634 	last_seen: d67.h10.m05.s54
+a6403ce1433af5f	178.207.187.77:20634 	last_seen: d67.h15.m37.s19
+33950441a4fc1efc	83.7.14.201:20634 	last_seen: d67.h18.m59.s43
+7ddfd155c3acc241	191.8.110.116:20634 	last_seen: d68.h00.m11.s36
+7dae93bdc2e9b240	178.206.16.65:20634 	last_seen: d68.h17.m38.s59
+33950441a4fc1efc	83.7.178.90:20634 	last_seen: d68.h19.m43.s27
+554f59f604f95491	62.106.100.231:20634 	last_seen: d69.h04.m35.s42
+cc5bec5397dd1d76	119.122.115.222:20634 	last_seen: d69.h14.m03.s50
+554f59f604f95491	81.28.189.21:20634 	last_seen: d70.h02.m32.s02
+33950441a4fc1efc	83.27.142.4:20634 	last_seen: d70.h04.m11.s59
+2c66b5643cd23e96	94.28.212.224:20634 	last_seen: d70.h04.m15.s51
+b65aae5750496abd	179.83.69.14:20634 	last_seen: d70.h04.m41.s39
+9d7aecf41402754f	178.206.186.212:20634 	last_seen: d70.h05.m17.s55
+2c66b5643cd23e96	94.28.233.128:20634 	last_seen: d70.h16.m53.s42
+554f59f604f95491	62.106.98.184:20634 	last_seen: d71.h13.m06.s39
+554f59f604f95491	85.114.185.65:20634 	last_seen: d71.h13.m28.s01
+554f59f604f95491	62.106.99.151:20634 	last_seen: d71.h13.m41.s11
+33950441a4fc1efc	83.27.236.92:20634 	last_seen: d71.h16.m10.s26
+6ea4a7106d8b2f9d	201.68.86.183:20634 	last_seen: d72.h06.m03.s24
+33950441a4fc1efc	83.7.183.72:20634 	last_seen: d72.h18.m36.s38
+2c84f6acfee6a2fa	179.145.32.219:20634 	last_seen: d72.h21.m42.s53
+a809d705e82fca96	31.129.253.213:20634 	last_seen: d73.h02.m44.s51
+33950441a4fc1efc	83.7.84.155:20634 	last_seen: d73.h07.m14.s31
+8ab9729aa5067e8f	152.249.33.190:20634 	last_seen: d73.h18.m28.s25
+9ac35edb8242089f	187.112.193.235:20634 	last_seen: d73.h19.m25.s18
+fef84a397b9800b9	178.207.143.250:20634 	last_seen: d74.h04.m19.s00
+6bf5321011735d44	178.205.199.134:20634 	last_seen: d74.h04.m42.s42
+41d26c58437ebeae	191.8.110.12:20634 	last_seen: d74.h05.m51.s30
+dc294aa78bc525	27.77.183.191:20634 	last_seen: d74.h11.m09.s50
+6704d027ecdef558	125.212.245.137:20634 	last_seen: d74.h11.m26.s14
+b65aae5750496abd	179.83.67.15:20634 	last_seen: d75.h00.m29.s55
+405e51d0a20daf3a	179.228.130.155:20634 	last_seen: d75.h05.m09.s32
+16edcf168facc657	80.234.188.71:20634 	last_seen: d75.h07.m45.s30
+530c2570cdb1df7d	178.206.164.102:20634 	last_seen: d75.h14.m02.s43
+e7103d3dcb97580a	178.205.72.168:20634 	last_seen: d76.h14.m37.s09
+33950441a4fc1efc	83.7.180.87:20634 	last_seen: d77.h09.m30.s05
+b65aae5750496abd	179.83.94.90:20634 	last_seen: d77.h09.m40.s26
+eda1f5652a14bc24	178.206.164.243:20634 	last_seen: d77.h13.m57.s01
+17fb5172bfdcb0e0	5.28.31.25:20634 	last_seen: d78.h02.m53.s50
+44d445ea449a2dfc	213.190.209.78:20634 	last_seen: d78.h07.m33.s01
+2d9f5e78fc9d2056	178.206.69.66:20634 	last_seen: d79.h14.m03.s02
+b65aae5750496abd	179.83.144.134:20634 	last_seen: d79.h18.m36.s14
+554f59f604f95491	81.28.189.246:20634 	last_seen: d79.h19.m23.s33
+33950441a4fc1efc	83.27.137.107:20634 	last_seen: d80.h06.m45.s34
+c7c556567790ed51	178.207.173.82:20634 	last_seen: d82.h06.m33.s19
+7db57df3b279eed8	62.199.204.133:20634 	last_seen: d82.h16.m01.s10
+8b275ea6ea20b8c1	178.206.188.70:20634 	last_seen: d83.h04.m06.s03
+cc5bec5397dd1d76	113.116.193.69:20634 	last_seen: d83.h15.m48.s26
+6c19dbb0a7521927	123.153.141.226:20634 	last_seen: d84.h00.m44.s36
+b65aae5750496abd	179.83.70.8:20634 	last_seen: d84.h00.m53.s53
+71c51b2294a0cff6	178.206.176.59:20634 	last_seen: d84.h03.m21.s03
+f498c525ee528393	84.24.253.47:20634 	last_seen: d84.h13.m30.s37
+ce446a78aa79003e	178.206.82.108:20634 	last_seen: d84.h17.m48.s54
+862a94abe665a339	178.207.188.171:20634 	last_seen: d85.h18.m53.s00
+212c8ba7c4dc296c	178.206.80.198:20634 	last_seen: d86.h16.m20.s04
+33950441a4fc1efc	83.7.183.5:20634 	last_seen: d88.h04.m23.s00
+33950441a4fc1efc	83.7.85.68:20634 	last_seen: d89.h06.m45.s26
+bd68ac78f0bc0823	113.233.217.209:20634 	last_seen: d89.h18.m08.s13
+23ec7910f631b234	58.185.155.109:20634 	last_seen: d90.h17.m33.s39
+33950441a4fc1efc	83.27.247.79:20634 	last_seen: d91.h15.m34.s20
+33950441a4fc1efc	83.27.6.168:20634 	last_seen: d92.h13.m16.s39
+88a926dcdeb2bae1	115.74.52.240:20634 	last_seen: d93.h13.m59.s39
+33950441a4fc1efc	83.7.85.251:20634 	last_seen: d94.h03.m25.s39
+33950441a4fc1efc	83.27.248.37:20634 	last_seen: d95.h07.m39.s27
+4c205ae31a0c5ec9	27.79.50.113:20634 	last_seen: d95.h11.m13.s40
+d4b7ccdfd4a04a43	2.93.139.72:20634 	last_seen: d95.h14.m55.s16
+33950441a4fc1efc	83.27.250.119:20634 	last_seen: d96.h05.m27.s57
+450a1051808632e3	109.203.201.66:20634 	last_seen: d96.h11.m54.s56
+cc5bec5397dd1d76	119.122.112.172:20634 	last_seen: d96.h13.m27.s45
+37f488ab854c6f3c	61.84.80.33:20634 	last_seen: d96.h17.m32.s57
+3e475f33e667a6cc	89.216.160.207:20634 	last_seen: d97.h01.m19.s33
+ef49bf66b940e2e4	31.172.141.99:20634 	last_seen: d97.h04.m50.s56
+b65aae5750496abd	179.83.79.99:20634 	last_seen: d99.h04.m36.s56
+33950441a4fc1efc	83.7.180.172:20634 	last_seen: d99.h07.m38.s50
+15165b53032e6fdc	179.105.164.99:20634 	last_seen: d99.h13.m26.s38
+9ed979b6fcb2e444	87.81.228.136:20634 	last_seen: d99.h21.m46.s41
+33950441a4fc1efc	83.7.80.203:20634 	last_seen: d100.h03.m39.s04
+59840d2a50e17fe5	188.186.34.123:20634 	last_seen: d100.h14.m13.s40
+33950441a4fc1efc	83.27.37.137:20634 	last_seen: d101.h06.m31.s43
+11377550ef4b3578	136.61.77.109:20634 	last_seen: d101.h19.m09.s52
+2d3d56693fdb83ba	125.91.217.162:20634 	last_seen: d101.h23.m22.s52
+bd68ac78f0bc0823	60.16.239.34:20634 	last_seen: d102.h00.m53.s33
+98532287158a6215	173.249.38.66:20634 	last_seen: d102.h00.m53.s52
+33950441a4fc1efc	83.7.180.208:20634 	last_seen: d102.h06.m00.s03
+1ef849e8990f87c7	115.61.201.41:20634 	last_seen: d102.h09.m22.s10
+592b0bcf742eb87	179.157.141.19:20634 	last_seen: d102.h23.m59.s03
+558540e1620f5f89	37.117.52.225:20634 	last_seen: d103.h04.m26.s38
+33950441a4fc1efc	83.7.5.120:20634 	last_seen: d103.h07.m33.s35
+1883702ff3332d81	113.81.69.243:20634 	last_seen: d103.h12.m19.s04
+cc5bec5397dd1d76	119.122.115.128:20634 	last_seen: d103.h13.m26.s04
+bd68ac78f0bc0823	60.16.254.5:20634 	last_seen: d103.h18.m09.s27
+e540208c9be8cbd7	90.157.168.108:20634 	last_seen: d104.h02.m00.s11
+df04e7735ffcc982	178.149.236.66:20634 	last_seen: d104.h09.m06.s04
+73035d90bf0fa53d	193.112.243.227:20634 	last_seen: d104.h09.m12.s04
+393eb4921ca84cef	47.74.176.218:20634 	last_seen: d104.h09.m30.s04
+543eb14a0de909ea	189.90.184.165:20634 	last_seen: d104.h09.m39.s43
+441ff7531e8e78ae	101.70.7.44:20634 	last_seen: d104.h10.m48.s14
+4eacf61d27a51ceb	83.7.186.216:20634 	last_seen: d104.h14.m27.s59
+ddd6baaacb251081	190.153.75.155:20634 	last_seen: d104.h22.m11.s07
+cd143b45b26fb517	61.6.63.79:20634 	last_seen: d105.h04.m50.s27
+2df55a10805be5fc	101.66.143.250:20634 	last_seen: d105.h08.m37.s38
+fb84413f58ad1bbe	78.241.218.127:20634 	last_seen: d105.h09.m09.s04
+ef5059f7af993a56	86.127.27.25:20634 	last_seen: d105.h09.m36.s16
+dc042492b8bc7a8a	83.27.142.119:20634 	last_seen: d105.h10.m26.s55
+ee798306ba6b9d9	46.118.19.163:20634 	last_seen: d105.h10.m47.s17
+ddd6baaacb251081	190.153.72.130:20634 	last_seen: d105.h10.m58.s44
+6cc63cce1046333	61.171.226.4:20634 	last_seen: d105.h11.m14.s04
+8991e64c29d2b4cb	104.46.40.127:20634 	last_seen: d105.h12.m09.s25
+b0bc84eaef5f903c	79.109.208.85:20634 	last_seen: d105.h14.m25.s58
+2c66b5643cd23e96	95.139.185.155:20634 	last_seen: d105.h15.m30.s41
+cbf71f1410993077	80.211.53.13:20634 	last_seen: d105.h16.m30.s58
+
+2018-Sep-16 23:33:14.262539 INFO    [node_server] Stop signal sent, please only EXIT or CTRL+C one time to avoid stalling the shutdown process.
+2018-Sep-16 23:33:14.262617 INFO    [node_server] Stopping NodeServer and its 4 connections...
+2018-Sep-16 23:33:15.263494 INFO    [node_server] NodeServer loop stopped
+2018-Sep-16 23:33:15.263616 INFO    [daemon] p2p net loop stopped
+2018-Sep-16 23:33:15.263666 INFO    [daemon] Stopping core rpc server...
+2018-Sep-16 23:33:15.263755 INFO    [daemon] Deinitializing p2p...
+2018-Sep-16 23:33:15.264598 INFO    [RocksDBWrapper] Closing DB.
+2018-Sep-16 23:33:19.344416 INFO    [daemon] Node stopped.
